@@ -1,0 +1,12 @@
+Final Count for Trace test
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unique Prefetches by 0: 0
+Unique Prefetches by 1: 0
+Unique Prefetches by 2: 1
+Unique Prefetches by 3: 1
+Prefetches Shared by (0, 1 ): 2
+Prefetches Shared by (0, 2 ): 1
+Prefetches Shared by (0, 3 ): 2
+Prefetches Shared by (1, 2 ): 2
+Prefetches Shared by (1, 3 ): 2
+Prefetches Shared by (2, 3 ): 1
