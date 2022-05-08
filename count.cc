@@ -38,7 +38,8 @@ int addr_from_str(string s)
 
 int main()
 {  
-    string test = "x.txt";
+    string test = "test_inputs/";
+    string base = ".txt";
     string PATH = "/scratch/cluster/azheng/pref_zipped_traces/";
     string files[LIST_LEN] = {
         "astar_163B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc.gz",
@@ -56,8 +57,7 @@ int main()
         // igzstream cur_zip;
         // cur_zip.open((PATH + files[i]).c_str());
         ifstream cur_fp;
-        test[0] = (char) i + '0'; 
-        cur_fp.open(&test[0]);
+        cur_fp.open((test+to_string(i+1)+base).c_str());
 
         string input_line;
         int ctr = 0;
