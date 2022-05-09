@@ -1,6 +1,43 @@
 This is a temporary repo for code that measures intersecting prefetches between those listed on traces/prefetchers_KEY.txt
 
+Current KEY:
+
+0: bingo,bop_
+1: bingo,scooby_
+2: bingo,sisb_
+3: bingo,sms_
+4: bingo,spp_
+5: bingo_
+6: bop,scooby_
+7: bop,sisb_
+8: bop,sms_
+9: bop,spp_
+10: bop_
+11: scooby,sisb_
+12: scooby,sms_
+13: scooby,spp_
+14: scooby_
+15: sisb,sms_
+16: sisb,spp_
+17: sisb_
+18: sms,spp_
+19: sms_
+20: spp_
+
+Reading Results:
+
+"Total Prefetches By All": Total # of *Unique* Prefetches by All Prefetchers 
+    - If Prefetchers X, Y share Prefetch Request K, then K is only counted once.
+
+"Unique Prefetches By X": Number of Unique Prefetches by *only* X (exclusive)
+    - If Prefetchers X, Y share Prefetch Request K, then K is *not* counted in this metric.
+
+"Prefetches Shared by (X, Y)": Number of Prefetches Shared between X, Y (inclusive)
+    - If Prefetchers X, Y, Z share Prefetch Request K, then K is counted between (X, Y), (X, Z), *and* (Y,Z).
+
+
 Assumes read permissions to /scratch/cluster/azheng on UT Austin Cluster
+Results also viewable on /scratch/cluster/azheng/results
 
 To run, simply call:
 

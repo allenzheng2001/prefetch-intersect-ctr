@@ -1,235 +1,235 @@
 Final Count for Trace leslie3d_1116B
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Total Prefetches By All: 0
+Total Prefetches By All: 34908728
 
-Unique Prefetches by 0: 0
-Unique Prefetches by 1: 0
-Unique Prefetches by 2: 0
-Unique Prefetches by 3: 0
-Unique Prefetches by 4: 0
-Unique Prefetches by 5: 0
-Unique Prefetches by 6: 0
-Unique Prefetches by 7: 0
-Unique Prefetches by 8: 0
-Unique Prefetches by 9: 0
-Unique Prefetches by 10: 0
-Unique Prefetches by 11: 0
-Unique Prefetches by 12: 0
-Unique Prefetches by 13: 0
-Unique Prefetches by 14: 0
-Unique Prefetches by 15: 0
-Unique Prefetches by 16: 0
-Unique Prefetches by 17: 0
-Unique Prefetches by 18: 0
-Unique Prefetches by 19: 0
-Unique Prefetches by 20: 0
-Prefetches Shared by (0, 1 ): 0
-Prefetches Shared by (0, 2 ): 0
-Prefetches Shared by (0, 3 ): 0
-Prefetches Shared by (0, 4 ): 0
-Prefetches Shared by (0, 5 ): 0
-Prefetches Shared by (0, 6 ): 0
-Prefetches Shared by (0, 7 ): 0
-Prefetches Shared by (0, 8 ): 0
-Prefetches Shared by (0, 9 ): 0
-Prefetches Shared by (0, 10 ): 0
-Prefetches Shared by (0, 11 ): 0
-Prefetches Shared by (0, 12 ): 0
-Prefetches Shared by (0, 13 ): 0
-Prefetches Shared by (0, 14 ): 0
-Prefetches Shared by (0, 15 ): 0
-Prefetches Shared by (0, 16 ): 0
-Prefetches Shared by (0, 17 ): 0
-Prefetches Shared by (0, 18 ): 0
-Prefetches Shared by (0, 19 ): 0
-Prefetches Shared by (0, 20 ): 0
-Prefetches Shared by (1, 2 ): 0
-Prefetches Shared by (1, 3 ): 0
-Prefetches Shared by (1, 4 ): 0
-Prefetches Shared by (1, 5 ): 0
-Prefetches Shared by (1, 6 ): 0
-Prefetches Shared by (1, 7 ): 0
-Prefetches Shared by (1, 8 ): 0
-Prefetches Shared by (1, 9 ): 0
-Prefetches Shared by (1, 10 ): 0
-Prefetches Shared by (1, 11 ): 0
-Prefetches Shared by (1, 12 ): 0
-Prefetches Shared by (1, 13 ): 0
-Prefetches Shared by (1, 14 ): 0
-Prefetches Shared by (1, 15 ): 0
-Prefetches Shared by (1, 16 ): 0
-Prefetches Shared by (1, 17 ): 0
-Prefetches Shared by (1, 18 ): 0
-Prefetches Shared by (1, 19 ): 0
-Prefetches Shared by (1, 20 ): 0
-Prefetches Shared by (2, 3 ): 0
-Prefetches Shared by (2, 4 ): 0
-Prefetches Shared by (2, 5 ): 0
-Prefetches Shared by (2, 6 ): 0
-Prefetches Shared by (2, 7 ): 0
-Prefetches Shared by (2, 8 ): 0
-Prefetches Shared by (2, 9 ): 0
-Prefetches Shared by (2, 10 ): 0
-Prefetches Shared by (2, 11 ): 0
-Prefetches Shared by (2, 12 ): 0
-Prefetches Shared by (2, 13 ): 0
-Prefetches Shared by (2, 14 ): 0
-Prefetches Shared by (2, 15 ): 0
-Prefetches Shared by (2, 16 ): 0
-Prefetches Shared by (2, 17 ): 0
-Prefetches Shared by (2, 18 ): 0
-Prefetches Shared by (2, 19 ): 0
-Prefetches Shared by (2, 20 ): 0
-Prefetches Shared by (3, 4 ): 0
-Prefetches Shared by (3, 5 ): 0
-Prefetches Shared by (3, 6 ): 0
-Prefetches Shared by (3, 7 ): 0
-Prefetches Shared by (3, 8 ): 0
-Prefetches Shared by (3, 9 ): 0
-Prefetches Shared by (3, 10 ): 0
-Prefetches Shared by (3, 11 ): 0
-Prefetches Shared by (3, 12 ): 0
-Prefetches Shared by (3, 13 ): 0
-Prefetches Shared by (3, 14 ): 0
-Prefetches Shared by (3, 15 ): 0
-Prefetches Shared by (3, 16 ): 0
-Prefetches Shared by (3, 17 ): 0
-Prefetches Shared by (3, 18 ): 0
-Prefetches Shared by (3, 19 ): 0
-Prefetches Shared by (3, 20 ): 0
-Prefetches Shared by (4, 5 ): 0
-Prefetches Shared by (4, 6 ): 0
-Prefetches Shared by (4, 7 ): 0
-Prefetches Shared by (4, 8 ): 0
-Prefetches Shared by (4, 9 ): 0
-Prefetches Shared by (4, 10 ): 0
-Prefetches Shared by (4, 11 ): 0
-Prefetches Shared by (4, 12 ): 0
-Prefetches Shared by (4, 13 ): 0
-Prefetches Shared by (4, 14 ): 0
-Prefetches Shared by (4, 15 ): 0
-Prefetches Shared by (4, 16 ): 0
-Prefetches Shared by (4, 17 ): 0
-Prefetches Shared by (4, 18 ): 0
-Prefetches Shared by (4, 19 ): 0
-Prefetches Shared by (4, 20 ): 0
-Prefetches Shared by (5, 6 ): 0
-Prefetches Shared by (5, 7 ): 0
-Prefetches Shared by (5, 8 ): 0
-Prefetches Shared by (5, 9 ): 0
-Prefetches Shared by (5, 10 ): 0
-Prefetches Shared by (5, 11 ): 0
-Prefetches Shared by (5, 12 ): 0
-Prefetches Shared by (5, 13 ): 0
-Prefetches Shared by (5, 14 ): 0
-Prefetches Shared by (5, 15 ): 0
-Prefetches Shared by (5, 16 ): 0
-Prefetches Shared by (5, 17 ): 0
-Prefetches Shared by (5, 18 ): 0
-Prefetches Shared by (5, 19 ): 0
-Prefetches Shared by (5, 20 ): 0
-Prefetches Shared by (6, 7 ): 0
-Prefetches Shared by (6, 8 ): 0
-Prefetches Shared by (6, 9 ): 0
-Prefetches Shared by (6, 10 ): 0
-Prefetches Shared by (6, 11 ): 0
-Prefetches Shared by (6, 12 ): 0
-Prefetches Shared by (6, 13 ): 0
-Prefetches Shared by (6, 14 ): 0
-Prefetches Shared by (6, 15 ): 0
-Prefetches Shared by (6, 16 ): 0
-Prefetches Shared by (6, 17 ): 0
-Prefetches Shared by (6, 18 ): 0
-Prefetches Shared by (6, 19 ): 0
-Prefetches Shared by (6, 20 ): 0
-Prefetches Shared by (7, 8 ): 0
-Prefetches Shared by (7, 9 ): 0
-Prefetches Shared by (7, 10 ): 0
-Prefetches Shared by (7, 11 ): 0
-Prefetches Shared by (7, 12 ): 0
-Prefetches Shared by (7, 13 ): 0
-Prefetches Shared by (7, 14 ): 0
-Prefetches Shared by (7, 15 ): 0
-Prefetches Shared by (7, 16 ): 0
-Prefetches Shared by (7, 17 ): 0
-Prefetches Shared by (7, 18 ): 0
-Prefetches Shared by (7, 19 ): 0
-Prefetches Shared by (7, 20 ): 0
-Prefetches Shared by (8, 9 ): 0
-Prefetches Shared by (8, 10 ): 0
-Prefetches Shared by (8, 11 ): 0
-Prefetches Shared by (8, 12 ): 0
-Prefetches Shared by (8, 13 ): 0
-Prefetches Shared by (8, 14 ): 0
-Prefetches Shared by (8, 15 ): 0
-Prefetches Shared by (8, 16 ): 0
-Prefetches Shared by (8, 17 ): 0
-Prefetches Shared by (8, 18 ): 0
-Prefetches Shared by (8, 19 ): 0
-Prefetches Shared by (8, 20 ): 0
-Prefetches Shared by (9, 10 ): 0
-Prefetches Shared by (9, 11 ): 0
-Prefetches Shared by (9, 12 ): 0
-Prefetches Shared by (9, 13 ): 0
-Prefetches Shared by (9, 14 ): 0
-Prefetches Shared by (9, 15 ): 0
-Prefetches Shared by (9, 16 ): 0
-Prefetches Shared by (9, 17 ): 0
-Prefetches Shared by (9, 18 ): 0
-Prefetches Shared by (9, 19 ): 0
-Prefetches Shared by (9, 20 ): 0
-Prefetches Shared by (10, 11 ): 0
-Prefetches Shared by (10, 12 ): 0
-Prefetches Shared by (10, 13 ): 0
-Prefetches Shared by (10, 14 ): 0
-Prefetches Shared by (10, 15 ): 0
-Prefetches Shared by (10, 16 ): 0
-Prefetches Shared by (10, 17 ): 0
-Prefetches Shared by (10, 18 ): 0
-Prefetches Shared by (10, 19 ): 0
-Prefetches Shared by (10, 20 ): 0
-Prefetches Shared by (11, 12 ): 0
-Prefetches Shared by (11, 13 ): 0
-Prefetches Shared by (11, 14 ): 0
-Prefetches Shared by (11, 15 ): 0
-Prefetches Shared by (11, 16 ): 0
-Prefetches Shared by (11, 17 ): 0
-Prefetches Shared by (11, 18 ): 0
-Prefetches Shared by (11, 19 ): 0
-Prefetches Shared by (11, 20 ): 0
-Prefetches Shared by (12, 13 ): 0
-Prefetches Shared by (12, 14 ): 0
-Prefetches Shared by (12, 15 ): 0
-Prefetches Shared by (12, 16 ): 0
-Prefetches Shared by (12, 17 ): 0
-Prefetches Shared by (12, 18 ): 0
-Prefetches Shared by (12, 19 ): 0
-Prefetches Shared by (12, 20 ): 0
-Prefetches Shared by (13, 14 ): 0
-Prefetches Shared by (13, 15 ): 0
-Prefetches Shared by (13, 16 ): 0
-Prefetches Shared by (13, 17 ): 0
-Prefetches Shared by (13, 18 ): 0
-Prefetches Shared by (13, 19 ): 0
-Prefetches Shared by (13, 20 ): 0
-Prefetches Shared by (14, 15 ): 0
-Prefetches Shared by (14, 16 ): 0
-Prefetches Shared by (14, 17 ): 0
-Prefetches Shared by (14, 18 ): 0
-Prefetches Shared by (14, 19 ): 0
-Prefetches Shared by (14, 20 ): 0
-Prefetches Shared by (15, 16 ): 0
-Prefetches Shared by (15, 17 ): 0
-Prefetches Shared by (15, 18 ): 0
-Prefetches Shared by (15, 19 ): 0
-Prefetches Shared by (15, 20 ): 0
-Prefetches Shared by (16, 17 ): 0
-Prefetches Shared by (16, 18 ): 0
-Prefetches Shared by (16, 19 ): 0
-Prefetches Shared by (16, 20 ): 0
-Prefetches Shared by (17, 18 ): 0
-Prefetches Shared by (17, 19 ): 0
-Prefetches Shared by (17, 20 ): 0
-Prefetches Shared by (18, 19 ): 0
-Prefetches Shared by (18, 20 ): 0
-Prefetches Shared by (19, 20 ): 0
+Unique Prefetches by 0: 596946
+Unique Prefetches by 1: 64784
+Unique Prefetches by 2: 132163
+Unique Prefetches by 3: 1940770
+Unique Prefetches by 4: 46811
+Unique Prefetches by 5: 64900
+Unique Prefetches by 6: 602701
+Unique Prefetches by 7: 561446
+Unique Prefetches by 8: 693217
+Unique Prefetches by 9: 665944
+Unique Prefetches by 10: 682999
+Unique Prefetches by 11: 27934
+Unique Prefetches by 12: 54371
+Unique Prefetches by 13: 7528
+Unique Prefetches by 14: 1848
+Unique Prefetches by 15: 58737
+Unique Prefetches by 16: 23101
+Unique Prefetches by 17: 28341
+Unique Prefetches by 18: 28046
+Unique Prefetches by 19: 29507
+Unique Prefetches by 20: 2094
+Prefetches Shared by (0, 1 ): 3035287
+Prefetches Shared by (0, 2 ): 2600161
+Prefetches Shared by (0, 3 ): 2342579
+Prefetches Shared by (0, 4 ): 2505465
+Prefetches Shared by (0, 5 ): 2257749
+Prefetches Shared by (0, 6 ): 1081998
+Prefetches Shared by (0, 7 ): 983023
+Prefetches Shared by (0, 8 ): 333852
+Prefetches Shared by (0, 9 ): 437268
+Prefetches Shared by (0, 10 ): 285235
+Prefetches Shared by (0, 11 ): 1629808
+Prefetches Shared by (0, 12 ): 926395
+Prefetches Shared by (0, 13 ): 933982
+Prefetches Shared by (0, 14 ): 785507
+Prefetches Shared by (0, 15 ): 701914
+Prefetches Shared by (0, 16 ): 993016
+Prefetches Shared by (0, 17 ): 734772
+Prefetches Shared by (0, 18 ): 264464
+Prefetches Shared by (0, 19 ): 115869
+Prefetches Shared by (0, 20 ): 148078
+Prefetches Shared by (1, 2 ): 8692726
+Prefetches Shared by (1, 3 ): 2294920
+Prefetches Shared by (1, 4 ): 5009782
+Prefetches Shared by (1, 5 ): 2182366
+Prefetches Shared by (1, 6 ): 14717040
+Prefetches Shared by (1, 7 ): 9523135
+Prefetches Shared by (1, 8 ): 635633
+Prefetches Shared by (1, 9 ): 3227016
+Prefetches Shared by (1, 10 ): 557473
+Prefetches Shared by (1, 11 ): 23261123
+Prefetches Shared by (1, 12 ): 14358321
+Prefetches Shared by (1, 13 ): 16830487
+Prefetches Shared by (1, 14 ): 14177575
+Prefetches Shared by (1, 15 ): 8022606
+Prefetches Shared by (1, 16 ): 11707663
+Prefetches Shared by (1, 17 ): 8944493
+Prefetches Shared by (1, 18 ): 2823016
+Prefetches Shared by (1, 19 ): 148622
+Prefetches Shared by (1, 20 ): 2660089
+Prefetches Shared by (2, 3 ): 2288429
+Prefetches Shared by (2, 4 ): 3974405
+Prefetches Shared by (2, 5 ): 2181737
+Prefetches Shared by (2, 6 ): 6800192
+Prefetches Shared by (2, 7 ): 8035473
+Prefetches Shared by (2, 8 ): 374900
+Prefetches Shared by (2, 9 ): 1985314
+Prefetches Shared by (2, 10 ): 241340
+Prefetches Shared by (2, 11 ): 14458710
+Prefetches Shared by (2, 12 ): 6706185
+Prefetches Shared by (2, 13 ): 8299620
+Prefetches Shared by (2, 14 ): 6552055
+Prefetches Shared by (2, 15 ): 7889466
+Prefetches Shared by (2, 16 ): 9633988
+Prefetches Shared by (2, 17 ): 7865674
+Prefetches Shared by (2, 18 ): 1879945
+Prefetches Shared by (2, 19 ): 130717
+Prefetches Shared by (2, 20 ): 1738413
+Prefetches Shared by (3, 4 ): 2337760
+Prefetches Shared by (3, 5 ): 2390192
+Prefetches Shared by (3, 6 ): 411777
+Prefetches Shared by (3, 7 ): 470376
+Prefetches Shared by (3, 8 ): 262792
+Prefetches Shared by (3, 9 ): 172439
+Prefetches Shared by (3, 10 ): 81253
+Prefetches Shared by (3, 11 ): 855597
+Prefetches Shared by (3, 12 ): 496401
+Prefetches Shared by (3, 13 ): 426186
+Prefetches Shared by (3, 14 ): 334357
+Prefetches Shared by (3, 15 ): 488988
+Prefetches Shared by (3, 16 ): 613449
+Prefetches Shared by (3, 17 ): 458522
+Prefetches Shared by (3, 18 ): 279612
+Prefetches Shared by (3, 19 ): 187268
+Prefetches Shared by (3, 20 ): 91459
+Prefetches Shared by (4, 5 ): 2264135
+Prefetches Shared by (4, 6 ): 2988565
+Prefetches Shared by (4, 7 ): 2117103
+Prefetches Shared by (4, 8 ): 219640
+Prefetches Shared by (4, 9 ): 2800676
+Prefetches Shared by (4, 10 ): 112978
+Prefetches Shared by (4, 11 ): 4986157
+Prefetches Shared by (4, 12 ): 3009797
+Prefetches Shared by (4, 13 ): 5571573
+Prefetches Shared by (4, 14 ): 2874685
+Prefetches Shared by (4, 15 ): 2076739
+Prefetches Shared by (4, 16 ): 4803578
+Prefetches Shared by (4, 17 ): 2043352
+Prefetches Shared by (4, 18 ): 2808328
+Prefetches Shared by (4, 19 ): 108228
+Prefetches Shared by (4, 20 ): 2691802
+Prefetches Shared by (5, 6 ): 353467
+Prefetches Shared by (5, 7 ): 386462
+Prefetches Shared by (5, 8 ): 157866
+Prefetches Shared by (5, 9 ): 146556
+Prefetches Shared by (5, 10 ): 64600
+Prefetches Shared by (5, 11 ): 720179
+Prefetches Shared by (5, 12 ): 416030
+Prefetches Shared by (5, 13 ): 375267
+Prefetches Shared by (5, 14 ): 292529
+Prefetches Shared by (5, 15 ): 396179
+Prefetches Shared by (5, 16 ): 510939
+Prefetches Shared by (5, 17 ): 378400
+Prefetches Shared by (5, 18 ): 181830
+Prefetches Shared by (5, 19 ): 98861
+Prefetches Shared by (5, 20 ): 82529
+Prefetches Shared by (6, 7 ): 9641440
+Prefetches Shared by (6, 8 ): 662161
+Prefetches Shared by (6, 9 ): 3297587
+Prefetches Shared by (6, 10 ): 678015
+Prefetches Shared by (6, 11 ): 23011363
+Prefetches Shared by (6, 12 ): 14267261
+Prefetches Shared by (6, 13 ): 16818501
+Prefetches Shared by (6, 14 ): 14171384
+Prefetches Shared by (6, 15 ): 7819481
+Prefetches Shared by (6, 16 ): 11542470
+Prefetches Shared by (6, 17 ): 8766703
+Prefetches Shared by (6, 18 ): 2756984
+Prefetches Shared by (6, 19 ): 93349
+Prefetches Shared by (6, 20 ): 2650324
+Prefetches Shared by (7, 8 ): 600422
+Prefetches Shared by (7, 9 ): 2274169
+Prefetches Shared by (7, 10 ): 612468
+Prefetches Shared by (7, 11 ): 20634659
+Prefetches Shared by (7, 12 ): 9117676
+Prefetches Shared by (7, 13 ): 10724754
+Prefetches Shared by (7, 14 ): 8971554
+Prefetches Shared by (7, 15 ): 9745493
+Prefetches Shared by (7, 16 ): 13393027
+Prefetches Shared by (7, 17 ): 11522305
+Prefetches Shared by (7, 18 ): 1885689
+Prefetches Shared by (7, 19 ): 131627
+Prefetches Shared by (7, 20 ): 1743519
+Prefetches Shared by (8, 9 ): 401762
+Prefetches Shared by (8, 10 ): 261229
+Prefetches Shared by (8, 11 ): 1022584
+Prefetches Shared by (8, 12 ): 805402
+Prefetches Shared by (8, 13 ): 593845
+Prefetches Shared by (8, 14 ): 507033
+Prefetches Shared by (8, 15 ): 645571
+Prefetches Shared by (8, 16 ): 602185
+Prefetches Shared by (8, 17 ): 448159
+Prefetches Shared by (8, 18 ): 2247924
+Prefetches Shared by (8, 19 ): 2155531
+Prefetches Shared by (8, 20 ): 86538
+Prefetches Shared by (9, 10 ): 349890
+Prefetches Shared by (9, 11 ): 5262671
+Prefetches Shared by (9, 12 ): 3182431
+Prefetches Shared by (9, 13 ): 5819305
+Prefetches Shared by (9, 14 ): 3124284
+Prefetches Shared by (9, 15 ): 2007941
+Prefetches Shared by (9, 16 ): 4828987
+Prefetches Shared by (9, 17 ): 2051133
+Prefetches Shared by (9, 18 ): 2751294
+Prefetches Shared by (9, 19 ): 54939
+Prefetches Shared by (9, 20 ): 2688494
+Prefetches Shared by (10, 11 ): 921833
+Prefetches Shared by (10, 12 ): 525886
+Prefetches Shared by (10, 13 ): 552382
+Prefetches Shared by (10, 14 ): 503077
+Prefetches Shared by (10, 15 ): 272322
+Prefetches Shared by (10, 16 ): 469767
+Prefetches Shared by (10, 17 ): 348034
+Prefetches Shared by (10, 18 ): 71303
+Prefetches Shared by (10, 19 ): 21864
+Prefetches Shared by (10, 20 ): 49443
+Prefetches Shared by (11, 12 ): 14377452
+Prefetches Shared by (11, 13 ): 16874385
+Prefetches Shared by (11, 14 ): 14185649
+Prefetches Shared by (11, 15 ): 9783952
+Prefetches Shared by (11, 16 ): 18077629
+Prefetches Shared by (11, 17 ): 13410823
+Prefetches Shared by (11, 18 ): 2871961
+Prefetches Shared by (11, 19 ): 177771
+Prefetches Shared by (11, 20 ): 2679609
+Prefetches Shared by (12, 13 ): 16848539
+Prefetches Shared by (12, 14 ): 14202241
+Prefetches Shared by (12, 15 ): 9946664
+Prefetches Shared by (12, 16 ): 11523786
+Prefetches Shared by (12, 17 ): 8808260
+Prefetches Shared by (12, 18 ): 2973194
+Prefetches Shared by (12, 19 ): 308694
+Prefetches Shared by (12, 20 ): 2649252
+Prefetches Shared by (13, 14 ): 14187365
+Prefetches Shared by (13, 15 ): 7803920
+Prefetches Shared by (13, 16 ): 11486672
+Prefetches Shared by (13, 17 ): 8738386
+Prefetches Shared by (13, 18 ): 2785226
+Prefetches Shared by (13, 19 ): 75943
+Prefetches Shared by (13, 20 ): 2695624
+Prefetches Shared by (14, 15 ): 7772807
+Prefetches Shared by (14, 16 ): 11408021
+Prefetches Shared by (14, 17 ): 8707640
+Prefetches Shared by (14, 18 ): 2737677
+Prefetches Shared by (14, 19 ): 75697
+Prefetches Shared by (14, 20 ): 2649151
+Prefetches Shared by (15, 16 ): 11389323
+Prefetches Shared by (15, 17 ): 9635826
+Prefetches Shared by (15, 18 ): 2049723
+Prefetches Shared by (15, 19 ): 311704
+Prefetches Shared by (15, 20 ): 1727148
+Prefetches Shared by (16, 17 ): 13422152
+Prefetches Shared by (16, 18 ): 2866636
+Prefetches Shared by (16, 19 ): 158341
+Prefetches Shared by (16, 20 ): 2695242
+Prefetches Shared by (17, 18 ): 1849754
+Prefetches Shared by (17, 19 ): 131502
+Prefetches Shared by (17, 20 ): 1707679
+Prefetches Shared by (18, 19 ): 2148500
+Prefetches Shared by (18, 20 ): 2687527
+Prefetches Shared by (19, 20 ): 33602
