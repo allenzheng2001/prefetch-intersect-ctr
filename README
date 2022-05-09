@@ -1,12 +1,11 @@
-So far:
-    shows isect data between 4 txt files representing prefetches, on a call to tracker->output_results();
-    prefetch struct ready to compare actual instruction IDs, addresses, maybe not levels if all LLC
-To run current test:
-    compile with "g++ -std=c++11 -o count count.cc"
-    run with "./count"
+This is a temporary repo for code that measures intersecting prefetches between those listed on traces/prefetchers_KEY.txt
 
-TODO:
-    compile with gzstream correctly
-    run a test on the 4 astar files listed on count.cc
-    make sure that works, then write code that will do it on the entire dataset
-    come up with a good visualization for the data?
+Assumes read permissions to /scratch/cluster/azheng on UT Austin Cluster
+
+To run, simply call:
+
+python3 file_sweep.py
+g++ -o count count.cc
+./count
+
+Current progress measured on traces/progress.txt while running

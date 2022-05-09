@@ -3,7 +3,7 @@
 #include <unordered_map>
 #include <unordered_set>
 
-#define LIST_LEN 4
+#define LIST_LEN 21 // number of prefetchers
 
 using namespace std;
 
@@ -21,16 +21,27 @@ struct Prefetch
         addr = address;
     }
 
-    bool equals(Prefetch* other)
+    //hash idea: https://stackoverflow.com/a/64191463
+    bool operator==(const Prefetch& other) const
     {
-        return (instr_id == other->instr_id) && (addr == other->addr);
+        return (this->instr_id == other.instr_id) && (this->addr == other.addr);
     }
+
+    struct HashFunction
+    {
+        size_t operator()(const Prefetch& prefetch) const
+        {
+            size_t inst_idHash = std::hash<uint64_t>()(prefetch.instr_id);
+            size_t addrHash = std::hash<uint64_t>()(prefetch.addr) << 1;
+            return inst_idHash ^ addrHash;
+        }
+    };
 };
 
 class SetTracker
 {
     private: 
-        unordered_map<uint64_t, unordered_set<uint64_t>*>* unique_addresses;
+        unordered_map<Prefetch, unordered_set<uint64_t>*, Prefetch::HashFunction>* unique_addresses;
         string trace_name;
 
         int num_prefetchers;
@@ -39,7 +50,7 @@ class SetTracker
     public:
         SetTracker(string trace)
         {
-            unique_addresses  = new unordered_map<uint64_t, unordered_set<uint64_t>*>();
+            unique_addresses  = new unordered_map<Prefetch, unordered_set<uint64_t>*, Prefetch::HashFunction>();
             trace_name = trace;
             
             num_prefetchers = LIST_LEN;
@@ -61,23 +72,24 @@ class SetTracker
                 for(auto entry: *unique_addresses)
                 {
                     auto temp = entry.second;
-                    unique_addresses->erase(entry.first);
+                    temp->clear();
                     delete temp;
                 }
+            unique_addresses->clear();
             delete unique_addresses;
             for(int i = 0; i < num_prefetchers; i++)
                 delete[] intersection_matrix[i];
             delete[] intersection_matrix;
         }  
 
-        void add(uint64_t address, int cur_prefetcher)
+        void add(Prefetch prefetch, int cur_prefetcher)
         {   
-            auto entry = unique_addresses->find(address);
+            auto entry = unique_addresses->find(prefetch);
             if(entry == unique_addresses->end())
             {
                 auto set = new unordered_set<uint64_t>();
                 set->emplace(cur_prefetcher);
-                unique_addresses->emplace(address, set);
+                unique_addresses->emplace(prefetch, set);
                 only_me[cur_prefetcher]++;
             }
             else
@@ -85,7 +97,7 @@ class SetTracker
                 for(int other: *(entry->second))
                 {
                     if(entry->second->size() == 1)
-                        only_me[other]--;
+                        only_me[other] = (only_me[other] == 0) ? 0: only_me[other] - 1;
                     intersection_matrix[cur_prefetcher][other]++;
                 }
                 entry->second->emplace(cur_prefetcher);
@@ -98,6 +110,8 @@ class SetTracker
 
             out << "Final Count for Trace " << trace_name << endl;
             out << "~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
+            out << "Total Prefetches By All: " << unique_addresses->size() << endl;
+            out << endl;
             for(int i = 0; i < num_prefetchers; i++)
             {
                 out << "Unique Prefetches by " << i << ": " << only_me[i] << endl;

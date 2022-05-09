@@ -1,4 +1,3 @@
-#include "gzstream.h"
 #include "count.h"
 
 #include <string>
@@ -10,70 +9,102 @@
 #include <cstdlib>
 #include <iostream>
 #include <limits>
+#include <vector>
 
 #include <unordered_map>
 #include <unordered_set>
 
 using namespace std;
 
-static bool endsWith(const string& str, const string& suffix)
-{
-    // For detecting file extensions
-    // https://stackoverflow.com/questions/874134/find-out-if-string-ends-with-another-string-in-c
-    return str.size() >= suffix.size() && 0 == str.compare(str.size()-suffix.size(), suffix.size(), suffix);
-}
-
-int addr_from_str(string s)
-{
-    int ctr = 0;
-    stringstream str(s);
-    string cur_token;
-    while(getline(str, cur_token, ' '))
-    {
-        if(++ctr == 2)
-            return stoi(cur_token);
-    }
-    return -1;
-}
-
 int main()
 {  
-    string test = "test_inputs/";
-    string base = ".txt";
+    // string test = "test_inputs/";
+    // string base = ".txt";
     string PATH = "/scratch/cluster/azheng/pref_zipped_traces/";
-    string files[LIST_LEN] = {
-        "astar_163B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc.gz",
-        "astar_163B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc.gz",
-        "astar_163B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc.gz",
-        "astar_163B-perceptron-no-no-bingo,sms_1,7-ship-1core-2048llc_sets_llc.gz"
-    };
 
-    SetTracker* tracker = new SetTracker("test");
-    //SetTracker* tracker = new SetTracker("astar_test");
-    //cout << "Testing Isect Counter on Astar" << endl;
+    ifstream names_fp("traces/benchmarks.txt");
+    ifstream prefs_fp("traces/prefetchers_KEY.txt");
+    ifstream files_fp("traces/all_files.txt");
+    
+    vector<string> benchmarks;
+    vector<string> prefs;
+    vector<string> files;
 
-    for(int i = 0; i < LIST_LEN; i++)
+    string benchmark_name;
+    string pref_name;
+
+    while(getline(names_fp, benchmark_name))
+        benchmarks.push_back(benchmark_name);
+
+    while(getline(prefs_fp, pref_name))
+        prefs.push_back(pref_name);
+
+    names_fp.close();
+    prefs_fp.close();
+
+    ifstream all_files("traces/all_files.txt");
+    ofstream out("traces/progress.txt");
+
+    for(int cur_benchmark = 0; cur_benchmark < benchmarks.size(); cur_benchmark++)
     {
-        // igzstream cur_zip;
-        // cur_zip.open((PATH + files[i]).c_str());
-        ifstream cur_fp;
-        cur_fp.open((test+to_string(i+1)+base).c_str());
+        string cur_trace = benchmarks.at(cur_benchmark);
+        SetTracker* tracker = new SetTracker(cur_trace);
+        out << "Testing Isect Counter on " << cur_trace << endl;
 
-        string input_line;
-        int ctr = 0;
+        uint64_t instr_id;
+        uint64_t address;
 
-        while(getline(cur_fp, input_line))
+        for(int cur_prefetcher = 0; cur_prefetcher < LIST_LEN; cur_prefetcher++)
         {
-            // if(ctr++ > 10)
-            //     break;
-            // cout << input_line << endl;
-            auto cur_addr = stoi(input_line);
-            tracker->add(cur_addr, i);
+            out << "Isect Counter Reading " << cur_trace << " for " << prefs.at(cur_prefetcher) << endl;
+            ifstream cur_fp;
+            string cur_file;
+            getline(all_files, cur_file);
+
+            //out << "File " << cur_file << endl;
+
+            cur_fp.open(PATH + cur_file.c_str());
+
+            string input_line;
+
+            while(getline(cur_fp, input_line))
+            {
+                stringstream line_stream(input_line);
+
+                uint64_t instr_id = 0;
+                string token;
+                int token_num = 0;
+
+                while(getline(line_stream, token, ' ')) {  // Parse line (format: `instr_id call_id pc addr1,addr2,...,addrn level1,level2,...,leveln`)
+                    stringstream token_stream(token);
+
+                    if (token_num == 0) {        // Get instruction ID
+                        instr_id = stol(token);
+                    } else if (token_num == 1) { // Get call ID
+                        
+                    } else if (token_num == 2) { // Get PC
+
+                    } else if (token_num == 3) { // Get addresses
+                        string addr_str;
+                        uint64_t addr;
+                        while (getline(token_stream, addr_str, ',')) {
+                            addr = stol(addr_str, nullptr, 16);
+                            tracker->add(Prefetch(instr_id, addr), cur_prefetcher);
+                        }
+                    } else if (token_num == 4) { // Get levels
+
+                    }
+                    token_num++;
+                }
+            }
+            cur_fp.close();
         }
+
+        tracker->output_results();
+        delete tracker;
     }
-
-    tracker->output_results();
-    delete tracker;
-
+    
+    all_files.close();
+    out.close();
     return 0;
 }
