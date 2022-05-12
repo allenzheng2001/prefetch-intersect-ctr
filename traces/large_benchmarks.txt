@@ -1,0 +1,17 @@
+mcf_158B
+mcf_250B
+mcf_46B
+milc_360B
+milc_409B
+milc_744B
+omnetpp_17B
+omnetpp_340B
+omnetpp_4B
+soplex_205B
+soplex_217B
+soplex_66B
+sphinx3_1339B
+sphinx3_2520B
+sphinx3_883B
+tonto_2049B
+xalancbmk_99B

@@ -1,4 +1,5 @@
 #include <string>
+#include <vector>
 #include <fstream>
 #include <unordered_map>
 #include <unordered_set>
@@ -45,6 +46,7 @@ class SetTracker
         string trace_name;
 
         int num_prefetchers;
+        uint64_t* total_by_me; //each prefetcher's total
         uint64_t* only_me; //unique
         uint64_t** intersection_matrix; //shared
     public:
@@ -54,11 +56,14 @@ class SetTracker
             trace_name = trace;
             
             num_prefetchers = LIST_LEN;
+
+            total_by_me = new uint64_t[LIST_LEN];
             only_me = new uint64_t[LIST_LEN];
             intersection_matrix = new uint64_t*[LIST_LEN];
 
             for(int i = 0; i < num_prefetchers; i++)
             {
+                total_by_me[i] = 0;
                 only_me[i] = 0;
                 intersection_matrix[i] = new uint64_t[LIST_LEN];
                 for(int j = 0; j < num_prefetchers; j++)
@@ -77,6 +82,8 @@ class SetTracker
                 }
             unique_addresses->clear();
             delete unique_addresses;
+            delete[] total_by_me;
+            delete[] only_me;
             for(int i = 0; i < num_prefetchers; i++)
                 delete[] intersection_matrix[i];
             delete[] intersection_matrix;
@@ -85,6 +92,7 @@ class SetTracker
         void add(Prefetch prefetch, int cur_prefetcher)
         {   
             auto entry = unique_addresses->find(prefetch);
+            total_by_me[cur_prefetcher]++;
             if(entry == unique_addresses->end())
             {
                 auto set = new unordered_set<uint64_t>();
@@ -103,24 +111,40 @@ class SetTracker
                 entry->second->emplace(cur_prefetcher);
             }
         }
-        
-        void output_results()
+
+        void random_flag_output()
         {
             ofstream out(out_path + trace_name + out_format);
+            
+           
+            out.close();
+        }
+
+        void output_results(vector<string> prefs_list, uint64_t total_prefetches, uint64_t added_prefetches)
+        {
+            ofstream out(out_path + trace_name + out_format);
+            if(added_prefetches > 0)
+                out << "**NOTE: This trace had ~1% of its prefetches picked randomly to conserve memory!\n" << endl;
 
             out << "Final Count for Trace " << trace_name << endl;
+            out << "\t Total Prefetches (including duplicates): " << total_prefetches << " Evaluated Prefetches: " << ((added_prefetches == 0) ? total_prefetches : added_prefetches) << endl;    
+            out << "\t Total Unique Prefetches By All: " << unique_addresses->size() << endl; 
             out << "~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
-            out << "Total Prefetches By All: " << unique_addresses->size() << endl;
             out << endl;
+
             for(int i = 0; i < num_prefetchers; i++)
             {
-                out << "Unique Prefetches by " << i << ": " << only_me[i] << endl;
+                out << "Total Prefetches by " << prefs_list.at(i) << ": " << total_by_me[i] << endl;
+            }
+            for(int i = 0; i < num_prefetchers; i++)
+            {
+                out << "Unique Prefetches by " << prefs_list.at(i) << ": " << only_me[i] << endl;
             }
 
             for(int r = 0; r < num_prefetchers; r++)
                 for(int c = r + 1; c < num_prefetchers; c++)
                 {
-                    out << "Prefetches Shared by (" << r << ", " << c << " ): " << intersection_matrix[r][c] + intersection_matrix[c][r] << endl;
+                    out << "Prefetches Shared by (" << prefs_list.at(r) << ", " << prefs_list.at(c) << " ): " << intersection_matrix[r][c] + intersection_matrix[c][r] << endl;
                     //in an unordered set, pairs will occur in both orderings
                 }
 

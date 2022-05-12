@@ -1374,10 +1374,1078 @@ Isect Counter Reading libquantum_964B for 19: sms_
 File: libquantum_964B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
 Isect Counter Reading libquantum_964B for 20: spp_
 File: libquantum_964B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
-Testing Isect Counter on mcf_158B
+Testing Isect Counter on mcf_158B randomly sampling 1%
 Isect Counter Reading mcf_158B for 0: bingo,bop_
 File: mcf_158B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
 Isect Counter Reading mcf_158B for 1: bingo,scooby_
 File: mcf_158B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
 Isect Counter Reading mcf_158B for 2: bingo,sisb_
 File: mcf_158B-perceptron-no-no-bingo,sisb_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 3: bingo,sms_
+File: mcf_158B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 4: bingo,spp_
+File: mcf_158B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 5: bingo_
+File: mcf_158B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 6: bop,scooby_
+File: mcf_158B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 7: bop,sisb_
+File: mcf_158B-perceptron-no-no-bop,sisb_6,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 8: bop,sms_
+File: mcf_158B-perceptron-no-no-bop,sms_4,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 9: bop,spp_
+File: mcf_158B-perceptron-no-no-bop,spp_dev2_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 10: bop_
+File: mcf_158B-perceptron-no-no-bop_3-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 11: scooby,sisb_
+File: mcf_158B-perceptron-no-no-scooby,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 12: scooby,sms_
+File: mcf_158B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 13: scooby,spp_
+File: mcf_158B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 14: scooby_
+File: mcf_158B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 15: sisb,sms_
+File: mcf_158B-perceptron-no-no-sisb,sms_4,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 16: sisb,spp_
+File: mcf_158B-perceptron-no-no-sisb,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 17: sisb_
+File: mcf_158B-perceptron-no-no-sisb_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 18: sms,spp_
+File: mcf_158B-perceptron-no-no-sms,spp_dev2_7,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 19: sms_
+File: mcf_158B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_158B for 20: spp_
+File: mcf_158B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on mcf_250B randomly sampling 1%
+Isect Counter Reading mcf_250B for 0: bingo,bop_
+File: mcf_250B-perceptron-no-no-bingo,bop_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 1: bingo,scooby_
+File: mcf_250B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 2: bingo,sisb_
+File: mcf_250B-perceptron-no-no-bingo,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 3: bingo,sms_
+File: mcf_250B-perceptron-no-no-bingo,sms_1,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 4: bingo,spp_
+File: mcf_250B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 5: bingo_
+File: mcf_250B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 6: bop,scooby_
+File: mcf_250B-perceptron-no-no-bop,scooby_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 7: bop,sisb_
+File: mcf_250B-perceptron-no-no-bop,sisb_2,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 8: bop,sms_
+File: mcf_250B-perceptron-no-no-bop,sms_2,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 9: bop,spp_
+File: mcf_250B-perceptron-no-no-bop,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 10: bop_
+File: mcf_250B-perceptron-no-no-bop_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 11: scooby,sisb_
+File: mcf_250B-perceptron-no-no-scooby,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 12: scooby,sms_
+File: mcf_250B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 13: scooby,spp_
+File: mcf_250B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 14: scooby_
+File: mcf_250B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 15: sisb,sms_
+File: mcf_250B-perceptron-no-no-sisb,sms_7,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 16: sisb,spp_
+File: mcf_250B-perceptron-no-no-sisb,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 17: sisb_
+File: mcf_250B-perceptron-no-no-sisb_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 18: sms,spp_
+File: mcf_250B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 19: sms_
+File: mcf_250B-perceptron-no-no-sms_3-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_250B for 20: spp_
+File: mcf_250B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on mcf_46B randomly sampling 1%
+Isect Counter Reading mcf_46B for 0: bingo,bop_
+File: mcf_46B-perceptron-no-no-bingo,bop_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 1: bingo,scooby_
+File: mcf_46B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 2: bingo,sisb_
+File: mcf_46B-perceptron-no-no-bingo,sisb_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 3: bingo,sms_
+File: mcf_46B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 4: bingo,spp_
+File: mcf_46B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 5: bingo_
+File: mcf_46B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 6: bop,scooby_
+File: mcf_46B-perceptron-no-no-bop,scooby_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 7: bop,sisb_
+File: mcf_46B-perceptron-no-no-bop,sisb_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 8: bop,sms_
+File: mcf_46B-perceptron-no-no-bop,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 9: bop,spp_
+File: mcf_46B-perceptron-no-no-bop,spp_dev2_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 10: bop_
+File: mcf_46B-perceptron-no-no-bop_3-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 11: scooby,sisb_
+File: mcf_46B-perceptron-no-no-scooby,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 12: scooby,sms_
+File: mcf_46B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 13: scooby,spp_
+File: mcf_46B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 14: scooby_
+File: mcf_46B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 15: sisb,sms_
+File: mcf_46B-perceptron-no-no-sisb,sms_2,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 16: sisb,spp_
+File: mcf_46B-perceptron-no-no-sisb,spp_dev2_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 17: sisb_
+File: mcf_46B-perceptron-no-no-sisb_3-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 18: sms,spp_
+File: mcf_46B-perceptron-no-no-sms,spp_dev2_7,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 19: sms_
+File: mcf_46B-perceptron-no-no-sms_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading mcf_46B for 20: spp_
+File: mcf_46B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on milc_360B randomly sampling 1%
+Isect Counter Reading milc_360B for 0: bingo,bop_
+File: milc_360B-perceptron-no-no-bingo,bop_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 1: bingo,scooby_
+File: milc_360B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 2: bingo,sisb_
+File: milc_360B-perceptron-no-no-bingo,sisb_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 3: bingo,sms_
+File: milc_360B-perceptron-no-no-bingo,sms_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 4: bingo,spp_
+File: milc_360B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 5: bingo_
+File: milc_360B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 6: bop,scooby_
+File: milc_360B-perceptron-no-no-bop,scooby_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 7: bop,sisb_
+File: milc_360B-perceptron-no-no-bop,sisb_6,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 8: bop,sms_
+File: milc_360B-perceptron-no-no-bop,sms_4,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 9: bop,spp_
+File: milc_360B-perceptron-no-no-bop,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 10: bop_
+File: milc_360B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 11: scooby,sisb_
+File: milc_360B-perceptron-no-no-scooby,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 12: scooby,sms_
+File: milc_360B-perceptron-no-no-scooby,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 13: scooby,spp_
+File: milc_360B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 14: scooby_
+File: milc_360B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 15: sisb,sms_
+File: milc_360B-perceptron-no-no-sisb,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 16: sisb,spp_
+File: milc_360B-perceptron-no-no-sisb,spp_dev2_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 17: sisb_
+File: milc_360B-perceptron-no-no-sisb_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 18: sms,spp_
+File: milc_360B-perceptron-no-no-sms,spp_dev2_7,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 19: sms_
+File: milc_360B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_360B for 20: spp_
+File: milc_360B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on milc_409B randomly sampling 1%
+Isect Counter Reading milc_409B for 0: bingo,bop_
+File: milc_409B-perceptron-no-no-bingo,bop_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 1: bingo,scooby_
+File: milc_409B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 2: bingo,sisb_
+File: milc_409B-perceptron-no-no-bingo,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 3: bingo,sms_
+File: milc_409B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 4: bingo,spp_
+File: milc_409B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 5: bingo_
+File: milc_409B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 6: bop,scooby_
+File: milc_409B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 7: bop,sisb_
+File: milc_409B-perceptron-no-no-bop,sisb_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 8: bop,sms_
+File: milc_409B-perceptron-no-no-bop,sms_5,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 9: bop,spp_
+File: milc_409B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 10: bop_
+File: milc_409B-perceptron-no-no-bop_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 11: scooby,sisb_
+File: milc_409B-perceptron-no-no-scooby,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 12: scooby,sms_
+File: milc_409B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 13: scooby,spp_
+File: milc_409B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 14: scooby_
+File: milc_409B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 15: sisb,sms_
+File: milc_409B-perceptron-no-no-sisb,sms_6,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 16: sisb,spp_
+File: milc_409B-perceptron-no-no-sisb,spp_dev2_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 17: sisb_
+File: milc_409B-perceptron-no-no-sisb_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 18: sms,spp_
+File: milc_409B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 19: sms_
+File: milc_409B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_409B for 20: spp_
+File: milc_409B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on milc_744B randomly sampling 1%
+Isect Counter Reading milc_744B for 0: bingo,bop_
+File: milc_744B-perceptron-no-no-bingo,bop_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 1: bingo,scooby_
+File: milc_744B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 2: bingo,sisb_
+File: milc_744B-perceptron-no-no-bingo,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 3: bingo,sms_
+File: milc_744B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 4: bingo,spp_
+File: milc_744B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 5: bingo_
+File: milc_744B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 6: bop,scooby_
+File: milc_744B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 7: bop,sisb_
+File: milc_744B-perceptron-no-no-bop,sisb_7,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 8: bop,sms_
+File: milc_744B-perceptron-no-no-bop,sms_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 9: bop,spp_
+File: milc_744B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 10: bop_
+File: milc_744B-perceptron-no-no-bop_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 11: scooby,sisb_
+File: milc_744B-perceptron-no-no-scooby,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 12: scooby,sms_
+File: milc_744B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 13: scooby,spp_
+File: milc_744B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 14: scooby_
+File: milc_744B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 15: sisb,sms_
+File: milc_744B-perceptron-no-no-sisb,sms_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 16: sisb,spp_
+File: milc_744B-perceptron-no-no-sisb,spp_dev2_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 17: sisb_
+File: milc_744B-perceptron-no-no-sisb_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 18: sms,spp_
+File: milc_744B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 19: sms_
+File: milc_744B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading milc_744B for 20: spp_
+File: milc_744B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on omnetpp_17B randomly sampling 1%
+Isect Counter Reading omnetpp_17B for 0: bingo,bop_
+File: omnetpp_17B-perceptron-no-no-bingo,bop_1,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 1: bingo,scooby_
+File: omnetpp_17B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 2: bingo,sisb_
+File: omnetpp_17B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 3: bingo,sms_
+File: omnetpp_17B-perceptron-no-no-bingo,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 4: bingo,spp_
+File: omnetpp_17B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 5: bingo_
+File: omnetpp_17B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 6: bop,scooby_
+File: omnetpp_17B-perceptron-no-no-bop,scooby_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 7: bop,sisb_
+File: omnetpp_17B-perceptron-no-no-bop,sisb_2,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 8: bop,sms_
+File: omnetpp_17B-perceptron-no-no-bop,sms_7,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 9: bop,spp_
+File: omnetpp_17B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 10: bop_
+File: omnetpp_17B-perceptron-no-no-bop_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 11: scooby,sisb_
+File: omnetpp_17B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 12: scooby,sms_
+File: omnetpp_17B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 13: scooby,spp_
+File: omnetpp_17B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 14: scooby_
+File: omnetpp_17B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 15: sisb,sms_
+File: omnetpp_17B-perceptron-no-no-sisb,sms_8,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 16: sisb,spp_
+File: omnetpp_17B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 17: sisb_
+File: omnetpp_17B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 18: sms,spp_
+File: omnetpp_17B-perceptron-no-no-sms,spp_dev2_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 19: sms_
+File: omnetpp_17B-perceptron-no-no-sms_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_17B for 20: spp_
+File: omnetpp_17B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on omnetpp_340B randomly sampling 1%
+Isect Counter Reading omnetpp_340B for 0: bingo,bop_
+File: omnetpp_340B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 1: bingo,scooby_
+File: omnetpp_340B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 2: bingo,sisb_
+File: omnetpp_340B-perceptron-no-no-bingo,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 3: bingo,sms_
+File: omnetpp_340B-perceptron-no-no-bingo,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 4: bingo,spp_
+File: omnetpp_340B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 5: bingo_
+File: omnetpp_340B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 6: bop,scooby_
+File: omnetpp_340B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 7: bop,sisb_
+File: omnetpp_340B-perceptron-no-no-bop,sisb_2,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 8: bop,sms_
+File: omnetpp_340B-perceptron-no-no-bop,sms_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 9: bop,spp_
+File: omnetpp_340B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 10: bop_
+File: omnetpp_340B-perceptron-no-no-bop_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 11: scooby,sisb_
+File: omnetpp_340B-perceptron-no-no-scooby,sisb_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 12: scooby,sms_
+File: omnetpp_340B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 13: scooby,spp_
+File: omnetpp_340B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 14: scooby_
+File: omnetpp_340B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 15: sisb,sms_
+File: omnetpp_340B-perceptron-no-no-sisb,sms_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 16: sisb,spp_
+File: omnetpp_340B-perceptron-no-no-sisb,spp_dev2_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 17: sisb_
+File: omnetpp_340B-perceptron-no-no-sisb_4-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 18: sms,spp_
+File: omnetpp_340B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 19: sms_
+File: omnetpp_340B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_340B for 20: spp_
+File: omnetpp_340B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on omnetpp_4B randomly sampling 1%
+Isect Counter Reading omnetpp_4B for 0: bingo,bop_
+File: omnetpp_4B-perceptron-no-no-bingo,bop_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 1: bingo,scooby_
+File: omnetpp_4B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 2: bingo,sisb_
+File: omnetpp_4B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 3: bingo,sms_
+File: omnetpp_4B-perceptron-no-no-bingo,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 4: bingo,spp_
+File: omnetpp_4B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 5: bingo_
+File: omnetpp_4B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 6: bop,scooby_
+File: omnetpp_4B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 7: bop,sisb_
+File: omnetpp_4B-perceptron-no-no-bop,sisb_8,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 8: bop,sms_
+File: omnetpp_4B-perceptron-no-no-bop,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 9: bop,spp_
+File: omnetpp_4B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 10: bop_
+File: omnetpp_4B-perceptron-no-no-bop_4-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 11: scooby,sisb_
+File: omnetpp_4B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 12: scooby,sms_
+File: omnetpp_4B-perceptron-no-no-scooby,sms_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 13: scooby,spp_
+File: omnetpp_4B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 14: scooby_
+File: omnetpp_4B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 15: sisb,sms_
+File: omnetpp_4B-perceptron-no-no-sisb,sms_8,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 16: sisb,spp_
+File: omnetpp_4B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 17: sisb_
+File: omnetpp_4B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 18: sms,spp_
+File: omnetpp_4B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 19: sms_
+File: omnetpp_4B-perceptron-no-no-sms_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading omnetpp_4B for 20: spp_
+File: omnetpp_4B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on soplex_205B randomly sampling 1%
+Isect Counter Reading soplex_205B for 0: bingo,bop_
+File: soplex_205B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 1: bingo,scooby_
+File: soplex_205B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 2: bingo,sisb_
+File: soplex_205B-perceptron-no-no-bingo,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 3: bingo,sms_
+File: soplex_205B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 4: bingo,spp_
+File: soplex_205B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 5: bingo_
+File: soplex_205B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 6: bop,scooby_
+File: soplex_205B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 7: bop,sisb_
+File: soplex_205B-perceptron-no-no-bop,sisb_5,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 8: bop,sms_
+File: soplex_205B-perceptron-no-no-bop,sms_8,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 9: bop,spp_
+File: soplex_205B-perceptron-no-no-bop,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 10: bop_
+File: soplex_205B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 11: scooby,sisb_
+File: soplex_205B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 12: scooby,sms_
+File: soplex_205B-perceptron-no-no-scooby,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 13: scooby,spp_
+File: soplex_205B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 14: scooby_
+File: soplex_205B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 15: sisb,sms_
+File: soplex_205B-perceptron-no-no-sisb,sms_6,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 16: sisb,spp_
+File: soplex_205B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 17: sisb_
+File: soplex_205B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 18: sms,spp_
+File: soplex_205B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 19: sms_
+File: soplex_205B-perceptron-no-no-sms_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_205B for 20: spp_
+File: soplex_205B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on soplex_217B randomly sampling 1%
+Isect Counter Reading soplex_217B for 0: bingo,bop_
+File: soplex_217B-perceptron-no-no-bingo,bop_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 1: bingo,scooby_
+File: soplex_217B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 2: bingo,sisb_
+File: soplex_217B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 3: bingo,sms_
+File: soplex_217B-perceptron-no-no-bingo,sms_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 4: bingo,spp_
+File: soplex_217B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 5: bingo_
+File: soplex_217B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 6: bop,scooby_
+File: soplex_217B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 7: bop,sisb_
+File: soplex_217B-perceptron-no-no-bop,sisb_3,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 8: bop,sms_
+File: soplex_217B-perceptron-no-no-bop,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 9: bop,spp_
+File: soplex_217B-perceptron-no-no-bop,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 10: bop_
+File: soplex_217B-perceptron-no-no-bop_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 11: scooby,sisb_
+File: soplex_217B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 12: scooby,sms_
+File: soplex_217B-perceptron-no-no-scooby,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 13: scooby,spp_
+File: soplex_217B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 14: scooby_
+File: soplex_217B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 15: sisb,sms_
+File: soplex_217B-perceptron-no-no-sisb,sms_8,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 16: sisb,spp_
+File: soplex_217B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 17: sisb_
+File: soplex_217B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 18: sms,spp_
+File: soplex_217B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 19: sms_
+File: soplex_217B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_217B for 20: spp_
+File: soplex_217B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on soplex_66B randomly sampling 1%
+Isect Counter Reading soplex_66B for 0: bingo,bop_
+File: soplex_66B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 1: bingo,scooby_
+File: soplex_66B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 2: bingo,sisb_
+File: soplex_66B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 3: bingo,sms_
+File: soplex_66B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 4: bingo,spp_
+File: soplex_66B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 5: bingo_
+File: soplex_66B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 6: bop,scooby_
+File: soplex_66B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 7: bop,sisb_
+File: soplex_66B-perceptron-no-no-bop,sisb_3,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 8: bop,sms_
+File: soplex_66B-perceptron-no-no-bop,sms_3,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 9: bop,spp_
+File: soplex_66B-perceptron-no-no-bop,spp_dev2_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 10: bop_
+File: soplex_66B-perceptron-no-no-bop_4-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 11: scooby,sisb_
+File: soplex_66B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 12: scooby,sms_
+File: soplex_66B-perceptron-no-no-scooby,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 13: scooby,spp_
+File: soplex_66B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 14: scooby_
+File: soplex_66B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 15: sisb,sms_
+File: soplex_66B-perceptron-no-no-sisb,sms_8,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 16: sisb,spp_
+File: soplex_66B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 17: sisb_
+File: soplex_66B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 18: sms,spp_
+File: soplex_66B-perceptron-no-no-sms,spp_dev2_7,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 19: sms_
+File: soplex_66B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading soplex_66B for 20: spp_
+File: soplex_66B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on sphinx3_1339B randomly sampling 1%
+Isect Counter Reading sphinx3_1339B for 0: bingo,bop_
+File: sphinx3_1339B-perceptron-no-no-bingo,bop_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 1: bingo,scooby_
+File: sphinx3_1339B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 2: bingo,sisb_
+File: sphinx3_1339B-perceptron-no-no-bingo,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 3: bingo,sms_
+File: sphinx3_1339B-perceptron-no-no-bingo,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 4: bingo,spp_
+File: sphinx3_1339B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 5: bingo_
+File: sphinx3_1339B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 6: bop,scooby_
+File: sphinx3_1339B-perceptron-no-no-bop,scooby_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 7: bop,sisb_
+File: sphinx3_1339B-perceptron-no-no-bop,sisb_3,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 8: bop,sms_
+File: sphinx3_1339B-perceptron-no-no-bop,sms_3,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 9: bop,spp_
+File: sphinx3_1339B-perceptron-no-no-bop,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 10: bop_
+File: sphinx3_1339B-perceptron-no-no-bop_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 11: scooby,sisb_
+File: sphinx3_1339B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 12: scooby,sms_
+File: sphinx3_1339B-perceptron-no-no-scooby,sms_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 13: scooby,spp_
+File: sphinx3_1339B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 14: scooby_
+File: sphinx3_1339B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 15: sisb,sms_
+File: sphinx3_1339B-perceptron-no-no-sisb,sms_8,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 16: sisb,spp_
+File: sphinx3_1339B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 17: sisb_
+File: sphinx3_1339B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 18: sms,spp_
+File: sphinx3_1339B-perceptron-no-no-sms,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 19: sms_
+File: sphinx3_1339B-perceptron-no-no-sms_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_1339B for 20: spp_
+File: sphinx3_1339B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on sphinx3_2520B randomly sampling 1%
+Isect Counter Reading sphinx3_2520B for 0: bingo,bop_
+File: sphinx3_2520B-perceptron-no-no-bingo,bop_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 1: bingo,scooby_
+File: sphinx3_2520B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 2: bingo,sisb_
+File: sphinx3_2520B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 3: bingo,sms_
+File: sphinx3_2520B-perceptron-no-no-bingo,sms_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 4: bingo,spp_
+File: sphinx3_2520B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 5: bingo_
+File: sphinx3_2520B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 6: bop,scooby_
+File: sphinx3_2520B-perceptron-no-no-bop,scooby_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 7: bop,sisb_
+File: sphinx3_2520B-perceptron-no-no-bop,sisb_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 8: bop,sms_
+File: sphinx3_2520B-perceptron-no-no-bop,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 9: bop,spp_
+File: sphinx3_2520B-perceptron-no-no-bop,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 10: bop_
+File: sphinx3_2520B-perceptron-no-no-bop_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 11: scooby,sisb_
+File: sphinx3_2520B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 12: scooby,sms_
+File: sphinx3_2520B-perceptron-no-no-scooby,sms_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 13: scooby,spp_
+File: sphinx3_2520B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 14: scooby_
+File: sphinx3_2520B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 15: sisb,sms_
+File: sphinx3_2520B-perceptron-no-no-sisb,sms_8,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 16: sisb,spp_
+File: sphinx3_2520B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 17: sisb_
+File: sphinx3_2520B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 18: sms,spp_
+File: sphinx3_2520B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 19: sms_
+File: sphinx3_2520B-perceptron-no-no-sms_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_2520B for 20: spp_
+File: sphinx3_2520B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on sphinx3_883B randomly sampling 1%
+Isect Counter Reading sphinx3_883B for 0: bingo,bop_
+File: sphinx3_883B-perceptron-no-no-bingo,bop_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 1: bingo,scooby_
+File: sphinx3_883B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 2: bingo,sisb_
+File: sphinx3_883B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 3: bingo,sms_
+File: sphinx3_883B-perceptron-no-no-bingo,sms_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 4: bingo,spp_
+File: sphinx3_883B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 5: bingo_
+File: sphinx3_883B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 6: bop,scooby_
+File: sphinx3_883B-perceptron-no-no-bop,scooby_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 7: bop,sisb_
+File: sphinx3_883B-perceptron-no-no-bop,sisb_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 8: bop,sms_
+File: sphinx3_883B-perceptron-no-no-bop,sms_7,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 9: bop,spp_
+File: sphinx3_883B-perceptron-no-no-bop,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 10: bop_
+File: sphinx3_883B-perceptron-no-no-bop_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 11: scooby,sisb_
+File: sphinx3_883B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 12: scooby,sms_
+File: sphinx3_883B-perceptron-no-no-scooby,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 13: scooby,spp_
+File: sphinx3_883B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 14: scooby_
+File: sphinx3_883B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 15: sisb,sms_
+File: sphinx3_883B-perceptron-no-no-sisb,sms_8,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 16: sisb,spp_
+File: sphinx3_883B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 17: sisb_
+File: sphinx3_883B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 18: sms,spp_
+File: sphinx3_883B-perceptron-no-no-sms,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 19: sms_
+File: sphinx3_883B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading sphinx3_883B for 20: spp_
+File: sphinx3_883B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on tonto_2049B randomly sampling 1%
+Isect Counter Reading tonto_2049B for 0: bingo,bop_
+File: tonto_2049B-perceptron-no-no-bingo,bop_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 1: bingo,scooby_
+File: tonto_2049B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 2: bingo,sisb_
+File: tonto_2049B-perceptron-no-no-bingo,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 3: bingo,sms_
+File: tonto_2049B-perceptron-no-no-bingo,sms_1,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 4: bingo,spp_
+File: tonto_2049B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 5: bingo_
+File: tonto_2049B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 6: bop,scooby_
+File: tonto_2049B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 7: bop,sisb_
+File: tonto_2049B-perceptron-no-no-bop,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 8: bop,sms_
+File: tonto_2049B-perceptron-no-no-bop,sms_4,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 9: bop,spp_
+File: tonto_2049B-perceptron-no-no-bop,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 10: bop_
+File: tonto_2049B-perceptron-no-no-bop_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 11: scooby,sisb_
+File: tonto_2049B-perceptron-no-no-scooby,sisb_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 12: scooby,sms_
+File: tonto_2049B-perceptron-no-no-scooby,sms_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 13: scooby,spp_
+File: tonto_2049B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 14: scooby_
+File: tonto_2049B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 15: sisb,sms_
+File: tonto_2049B-perceptron-no-no-sisb,sms_4,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 16: sisb,spp_
+File: tonto_2049B-perceptron-no-no-sisb,spp_dev2_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 17: sisb_
+File: tonto_2049B-perceptron-no-no-sisb_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 18: sms,spp_
+File: tonto_2049B-perceptron-no-no-sms,spp_dev2_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 19: sms_
+File: tonto_2049B-perceptron-no-no-sms_4-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2049B for 20: spp_
+File: tonto_2049B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on tonto_2834B
+Isect Counter Reading tonto_2834B for 0: bingo,bop_
+File: tonto_2834B-perceptron-no-no-bingo,bop_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 1: bingo,scooby_
+File: tonto_2834B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 2: bingo,sisb_
+File: tonto_2834B-perceptron-no-no-bingo,sisb_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 3: bingo,sms_
+File: tonto_2834B-perceptron-no-no-bingo,sms_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 4: bingo,spp_
+File: tonto_2834B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 5: bingo_
+File: tonto_2834B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 6: bop,scooby_
+File: tonto_2834B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 7: bop,sisb_
+File: tonto_2834B-perceptron-no-no-bop,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 8: bop,sms_
+File: tonto_2834B-perceptron-no-no-bop,sms_2,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 9: bop,spp_
+File: tonto_2834B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 10: bop_
+File: tonto_2834B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 11: scooby,sisb_
+File: tonto_2834B-perceptron-no-no-scooby,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 12: scooby,sms_
+File: tonto_2834B-perceptron-no-no-scooby,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 13: scooby,spp_
+File: tonto_2834B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 14: scooby_
+File: tonto_2834B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 15: sisb,sms_
+File: tonto_2834B-perceptron-no-no-sisb,sms_3,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 16: sisb,spp_
+File: tonto_2834B-perceptron-no-no-sisb,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 17: sisb_
+File: tonto_2834B-perceptron-no-no-sisb_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 18: sms,spp_
+File: tonto_2834B-perceptron-no-no-sms,spp_dev2_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 19: sms_
+File: tonto_2834B-perceptron-no-no-sms_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_2834B for 20: spp_
+File: tonto_2834B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on tonto_422B
+Isect Counter Reading tonto_422B for 0: bingo,bop_
+File: tonto_422B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 1: bingo,scooby_
+File: tonto_422B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 2: bingo,sisb_
+File: tonto_422B-perceptron-no-no-bingo,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 3: bingo,sms_
+File: tonto_422B-perceptron-no-no-bingo,sms_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 4: bingo,spp_
+File: tonto_422B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 5: bingo_
+File: tonto_422B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 6: bop,scooby_
+File: tonto_422B-perceptron-no-no-bop,scooby_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 7: bop,sisb_
+File: tonto_422B-perceptron-no-no-bop,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 8: bop,sms_
+File: tonto_422B-perceptron-no-no-bop,sms_4,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 9: bop,spp_
+File: tonto_422B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 10: bop_
+File: tonto_422B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 11: scooby,sisb_
+File: tonto_422B-perceptron-no-no-scooby,sisb_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 12: scooby,sms_
+File: tonto_422B-perceptron-no-no-scooby,sms_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 13: scooby,spp_
+File: tonto_422B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 14: scooby_
+File: tonto_422B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 15: sisb,sms_
+File: tonto_422B-perceptron-no-no-sisb,sms_6,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 16: sisb,spp_
+File: tonto_422B-perceptron-no-no-sisb,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 17: sisb_
+File: tonto_422B-perceptron-no-no-sisb_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 18: sms,spp_
+File: tonto_422B-perceptron-no-no-sms,spp_dev2_7,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 19: sms_
+File: tonto_422B-perceptron-no-no-sms_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading tonto_422B for 20: spp_
+File: tonto_422B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on wrf_1212B
+Isect Counter Reading wrf_1212B for 0: bingo,bop_
+File: wrf_1212B-perceptron-no-no-bingo,bop_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 1: bingo,scooby_
+File: wrf_1212B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 2: bingo,sisb_
+File: wrf_1212B-perceptron-no-no-bingo,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 3: bingo,sms_
+File: wrf_1212B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 4: bingo,spp_
+File: wrf_1212B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 5: bingo_
+File: wrf_1212B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 6: bop,scooby_
+File: wrf_1212B-perceptron-no-no-bop,scooby_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 7: bop,sisb_
+File: wrf_1212B-perceptron-no-no-bop,sisb_5,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 8: bop,sms_
+File: wrf_1212B-perceptron-no-no-bop,sms_3,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 9: bop,spp_
+File: wrf_1212B-perceptron-no-no-bop,spp_dev2_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 10: bop_
+File: wrf_1212B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 11: scooby,sisb_
+File: wrf_1212B-perceptron-no-no-scooby,sisb_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 12: scooby,sms_
+File: wrf_1212B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 13: scooby,spp_
+File: wrf_1212B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 14: scooby_
+File: wrf_1212B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 15: sisb,sms_
+File: wrf_1212B-perceptron-no-no-sisb,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 16: sisb,spp_
+File: wrf_1212B-perceptron-no-no-sisb,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 17: sisb_
+File: wrf_1212B-perceptron-no-no-sisb_4-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 18: sms,spp_
+File: wrf_1212B-perceptron-no-no-sms,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 19: sms_
+File: wrf_1212B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading wrf_1212B for 20: spp_
+File: wrf_1212B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on xalancbmk_748B
+Isect Counter Reading xalancbmk_748B for 0: bingo,bop_
+File: xalancbmk_748B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 1: bingo,scooby_
+File: xalancbmk_748B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 2: bingo,sisb_
+File: xalancbmk_748B-perceptron-no-no-bingo,sisb_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 3: bingo,sms_
+File: xalancbmk_748B-perceptron-no-no-bingo,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 4: bingo,spp_
+File: xalancbmk_748B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 5: bingo_
+File: xalancbmk_748B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 6: bop,scooby_
+File: xalancbmk_748B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 7: bop,sisb_
+File: xalancbmk_748B-perceptron-no-no-bop,sisb_2,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 8: bop,sms_
+File: xalancbmk_748B-perceptron-no-no-bop,sms_6,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 9: bop,spp_
+File: xalancbmk_748B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 10: bop_
+File: xalancbmk_748B-perceptron-no-no-bop_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 11: scooby,sisb_
+File: xalancbmk_748B-perceptron-no-no-scooby,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 12: scooby,sms_
+File: xalancbmk_748B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 13: scooby,spp_
+File: xalancbmk_748B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 14: scooby_
+File: xalancbmk_748B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 15: sisb,sms_
+File: xalancbmk_748B-perceptron-no-no-sisb,sms_5,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 16: sisb,spp_
+File: xalancbmk_748B-perceptron-no-no-sisb,spp_dev2_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 17: sisb_
+File: xalancbmk_748B-perceptron-no-no-sisb_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 18: sms,spp_
+File: xalancbmk_748B-perceptron-no-no-sms,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 19: sms_
+File: xalancbmk_748B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_748B for 20: spp_
+File: xalancbmk_748B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on xalancbmk_768B
+Isect Counter Reading xalancbmk_768B for 0: bingo,bop_
+File: xalancbmk_768B-perceptron-no-no-bingo,bop_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 1: bingo,scooby_
+File: xalancbmk_768B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 2: bingo,sisb_
+File: xalancbmk_768B-perceptron-no-no-bingo,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 3: bingo,sms_
+File: xalancbmk_768B-perceptron-no-no-bingo,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 4: bingo,spp_
+File: xalancbmk_768B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 5: bingo_
+File: xalancbmk_768B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 6: bop,scooby_
+File: xalancbmk_768B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 7: bop,sisb_
+File: xalancbmk_768B-perceptron-no-no-bop,sisb_8,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 8: bop,sms_
+File: xalancbmk_768B-perceptron-no-no-bop,sms_3,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 9: bop,spp_
+File: xalancbmk_768B-perceptron-no-no-bop,spp_dev2_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 10: bop_
+File: xalancbmk_768B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 11: scooby,sisb_
+File: xalancbmk_768B-perceptron-no-no-scooby,sisb_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 12: scooby,sms_
+File: xalancbmk_768B-perceptron-no-no-scooby,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 13: scooby,spp_
+File: xalancbmk_768B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 14: scooby_
+File: xalancbmk_768B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 15: sisb,sms_
+File: xalancbmk_768B-perceptron-no-no-sisb,sms_7,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 16: sisb,spp_
+File: xalancbmk_768B-perceptron-no-no-sisb,spp_dev2_5,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 17: sisb_
+File: xalancbmk_768B-perceptron-no-no-sisb_7-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 18: sms,spp_
+File: xalancbmk_768B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 19: sms_
+File: xalancbmk_768B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_768B for 20: spp_
+File: xalancbmk_768B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on xalancbmk_99B randomly sampling 1%
+Isect Counter Reading xalancbmk_99B for 0: bingo,bop_
+File: xalancbmk_99B-perceptron-no-no-bingo,bop_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 1: bingo,scooby_
+File: xalancbmk_99B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 2: bingo,sisb_
+File: xalancbmk_99B-perceptron-no-no-bingo,sisb_1,3-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 3: bingo,sms_
+File: xalancbmk_99B-perceptron-no-no-bingo,sms_1,4-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 4: bingo,spp_
+File: xalancbmk_99B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 5: bingo_
+File: xalancbmk_99B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 6: bop,scooby_
+File: xalancbmk_99B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 7: bop,sisb_
+File: xalancbmk_99B-perceptron-no-no-bop,sisb_4,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 8: bop,sms_
+File: xalancbmk_99B-perceptron-no-no-bop,sms_6,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 9: bop,spp_
+File: xalancbmk_99B-perceptron-no-no-bop,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 10: bop_
+File: xalancbmk_99B-perceptron-no-no-bop_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 11: scooby,sisb_
+File: xalancbmk_99B-perceptron-no-no-scooby,sisb_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 12: scooby,sms_
+File: xalancbmk_99B-perceptron-no-no-scooby,sms_1,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 13: scooby,spp_
+File: xalancbmk_99B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 14: scooby_
+File: xalancbmk_99B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 15: sisb,sms_
+File: xalancbmk_99B-perceptron-no-no-sisb,sms_2,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 16: sisb,spp_
+File: xalancbmk_99B-perceptron-no-no-sisb,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 17: sisb_
+File: xalancbmk_99B-perceptron-no-no-sisb_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 18: sms,spp_
+File: xalancbmk_99B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 19: sms_
+File: xalancbmk_99B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading xalancbmk_99B for 20: spp_
+File: xalancbmk_99B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on zeusmp_100B
+Isect Counter Reading zeusmp_100B for 0: bingo,bop_
+File: zeusmp_100B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 1: bingo,scooby_
+File: zeusmp_100B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 2: bingo,sisb_
+File: zeusmp_100B-perceptron-no-no-bingo,sisb_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 3: bingo,sms_
+File: zeusmp_100B-perceptron-no-no-bingo,sms_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 4: bingo,spp_
+File: zeusmp_100B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 5: bingo_
+File: zeusmp_100B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 6: bop,scooby_
+File: zeusmp_100B-perceptron-no-no-bop,scooby_4,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 7: bop,sisb_
+File: zeusmp_100B-perceptron-no-no-bop,sisb_6,8-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 8: bop,sms_
+File: zeusmp_100B-perceptron-no-no-bop,sms_8,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 9: bop,spp_
+File: zeusmp_100B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 10: bop_
+File: zeusmp_100B-perceptron-no-no-bop_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 11: scooby,sisb_
+File: zeusmp_100B-perceptron-no-no-scooby,sisb_1,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 12: scooby,sms_
+File: zeusmp_100B-perceptron-no-no-scooby,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 13: scooby,spp_
+File: zeusmp_100B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 14: scooby_
+File: zeusmp_100B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 15: sisb,sms_
+File: zeusmp_100B-perceptron-no-no-sisb,sms_2,5-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 16: sisb,spp_
+File: zeusmp_100B-perceptron-no-no-sisb,spp_dev2_2,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 17: sisb_
+File: zeusmp_100B-perceptron-no-no-sisb_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 18: sms,spp_
+File: zeusmp_100B-perceptron-no-no-sms,spp_dev2_3,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 19: sms_
+File: zeusmp_100B-perceptron-no-no-sms_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_100B for 20: spp_
+File: zeusmp_100B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on zeusmp_300B
+Isect Counter Reading zeusmp_300B for 0: bingo,bop_
+File: zeusmp_300B-perceptron-no-no-bingo,bop_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 1: bingo,scooby_
+File: zeusmp_300B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 2: bingo,sisb_
+File: zeusmp_300B-perceptron-no-no-bingo,sisb_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 3: bingo,sms_
+File: zeusmp_300B-perceptron-no-no-bingo,sms_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 4: bingo,spp_
+File: zeusmp_300B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 5: bingo_
+File: zeusmp_300B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 6: bop,scooby_
+File: zeusmp_300B-perceptron-no-no-bop,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 7: bop,sisb_
+File: zeusmp_300B-perceptron-no-no-bop,sisb_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 8: bop,sms_
+File: zeusmp_300B-perceptron-no-no-bop,sms_3,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 9: bop,spp_
+File: zeusmp_300B-perceptron-no-no-bop,spp_dev2_7,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 10: bop_
+File: zeusmp_300B-perceptron-no-no-bop_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 11: scooby,sisb_
+File: zeusmp_300B-perceptron-no-no-scooby,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 12: scooby,sms_
+File: zeusmp_300B-perceptron-no-no-scooby,sms_1,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 13: scooby,spp_
+File: zeusmp_300B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 14: scooby_
+File: zeusmp_300B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 15: sisb,sms_
+File: zeusmp_300B-perceptron-no-no-sisb,sms_2,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 16: sisb,spp_
+File: zeusmp_300B-perceptron-no-no-sisb,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 17: sisb_
+File: zeusmp_300B-perceptron-no-no-sisb_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 18: sms,spp_
+File: zeusmp_300B-perceptron-no-no-sms,spp_dev2_6,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 19: sms_
+File: zeusmp_300B-perceptron-no-no-sms_6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_300B for 20: spp_
+File: zeusmp_300B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc
+Testing Isect Counter on zeusmp_600B
+Isect Counter Reading zeusmp_600B for 0: bingo,bop_
+File: zeusmp_600B-perceptron-no-no-bingo,bop_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 1: bingo,scooby_
+File: zeusmp_600B-perceptron-no-no-bingo,scooby_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 2: bingo,sisb_
+File: zeusmp_600B-perceptron-no-no-bingo,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 3: bingo,sms_
+File: zeusmp_600B-perceptron-no-no-bingo,sms_1,2-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 4: bingo,spp_
+File: zeusmp_600B-perceptron-no-no-bingo,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 5: bingo_
+File: zeusmp_600B-perceptron-no-no-bingo_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 6: bop,scooby_
+File: zeusmp_600B-perceptron-no-no-bop,scooby_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 7: bop,sisb_
+File: zeusmp_600B-perceptron-no-no-bop,sisb_2,6-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 8: bop,sms_
+File: zeusmp_600B-perceptron-no-no-bop,sms_3,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 9: bop,spp_
+File: zeusmp_600B-perceptron-no-no-bop,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 10: bop_
+File: zeusmp_600B-perceptron-no-no-bop_5-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 11: scooby,sisb_
+File: zeusmp_600B-perceptron-no-no-scooby,sisb_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 12: scooby,sms_
+File: zeusmp_600B-perceptron-no-no-scooby,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 13: scooby,spp_
+File: zeusmp_600B-perceptron-no-no-scooby,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 14: scooby_
+File: zeusmp_600B-perceptron-no-no-scooby_1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 15: sisb,sms_
+File: zeusmp_600B-perceptron-no-no-sisb,sms_1,7-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 16: sisb,spp_
+File: zeusmp_600B-perceptron-no-no-sisb,spp_dev2_1,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 17: sisb_
+File: zeusmp_600B-perceptron-no-no-sisb_2-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 18: sms,spp_
+File: zeusmp_600B-perceptron-no-no-sms,spp_dev2_8,1-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 19: sms_
+File: zeusmp_600B-perceptron-no-no-sms_8-ship-1core-2048llc_sets_llc
+Isect Counter Reading zeusmp_600B for 20: spp_
+File: zeusmp_600B-perceptron-no-no-spp_dev2_1-ship-1core-2048llc_sets_llc

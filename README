@@ -1,5 +1,7 @@
 This is a temporary repo for code that measures intersecting prefetches between those listed on traces/prefetchers_KEY.txt
 
+New Update: Some traces are too large, so 1% of the prefetches are randomly (seed: 1337) sampled to represent them. The names of these benchmarks can be found on traces/large_benchmarks.txt
+
 Current KEY:
 
 0: bingo,bop_
@@ -26,7 +28,11 @@ Current KEY:
 
 Reading Results:
 
-"Total Prefetches By All": Total # of *Unique* Prefetches by All Prefetchers 
+"Total Prefetches: X Evaluated Prefetches: Y" 
+    - On Sampled Results: X (number of requests read, duplicates included), Y: (number of requests added to the table, duplicates included)
+    - Random Numbers chosen on the seed srand(1337) with a .01 probability of allowing a prefetch to be added, but this represents the true fraction.
+
+"Total Unique Prefetches By All": Total # of *Unique* Prefetches by All Prefetchers 
     - If Prefetchers X, Y share Prefetch Request K, then K is only counted once.
 
 "Unique Prefetches By X": Number of Unique Prefetches by *only* X (exclusive)
@@ -35,14 +41,21 @@ Reading Results:
 "Prefetches Shared by (X, Y)": Number of Prefetches Shared between X, Y (inclusive)
     - If Prefetchers X, Y, Z share Prefetch Request K, then K is counted between (X, Y), (X, Z), *and* (Y,Z).
 
+The raw data might not look like its adds up, but remember that it takes a 21-dimensional principles of inclusion/exclusion calculation to fully make sense of the data structure.
+
 
 Assumes read permissions to /scratch/cluster/azheng on UT Austin Cluster
 Results also viewable on /scratch/cluster/azheng/results
 
-To run, simply call:
+To run, simply call (on a UT lab machine):
 
 python3 file_sweep.py
 g++ -o count count.cc
 ./count
 
-Current progress measured on traces/progress.txt while running
+UPDATE: This is a very heavy task. We use the condor job submission to deal with it instead of running the binary straight up like below. Please see traces/large_benchmarks.txt for a list of benchmarks that may cause the lab machine to run out of memory. 
+
+g++ -o count_random count_random.cc
+./count_random
+
+Current progress measured on traces/progress_random.txt while running
