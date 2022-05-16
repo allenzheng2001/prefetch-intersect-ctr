@@ -59,3 +59,7 @@ g++ -o count_random count_random.cc
 ./count_random
 
 Current progress measured on traces/progress_random.txt while running
+
+UPDATE 2: 
+
+to count the footprint instead, use count_footprint.cc
