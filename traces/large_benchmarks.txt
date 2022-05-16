@@ -13,5 +13,4 @@ soplex_66B
 sphinx3_1339B
 sphinx3_2520B
 sphinx3_883B
-tonto_2049B
 xalancbmk_99B

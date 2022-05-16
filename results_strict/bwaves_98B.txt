@@ -1,0 +1,257 @@
+Final Count for Trace bwaves_98B
+	 Total Prefetches (including duplicates): 260474 Evaluated Prefetches: 260474
+	 Total Unique Prefetches By All: 42879
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Total Prefetches by 0: bingo,bop_: 5640
+Total Prefetches by 1: bingo,scooby_: 30130
+Total Prefetches by 2: bingo,sisb_: 3199
+Total Prefetches by 3: bingo,sms_: 5235
+Total Prefetches by 4: bingo,spp_: 6858
+Total Prefetches by 5: bingo_: 2077
+Total Prefetches by 6: bop,scooby_: 31587
+Total Prefetches by 7: bop,sisb_: 5426
+Total Prefetches by 8: bop,sms_: 6746
+Total Prefetches by 9: bop,spp_: 8754
+Total Prefetches by 10: bop_: 4010
+Total Prefetches by 11: scooby,sisb_: 28498
+Total Prefetches by 12: scooby,sms_: 29036
+Total Prefetches by 13: scooby,spp_: 28411
+Total Prefetches by 14: scooby_: 28285
+Total Prefetches by 15: sisb,sms_: 3968
+Total Prefetches by 16: sisb,spp_: 5585
+Total Prefetches by 17: sisb_: 1122
+Total Prefetches by 18: sms,spp_: 8025
+Total Prefetches by 19: sms_: 3229
+Total Prefetches by 20: spp_: 4846
+Unique Prefetches by 0: bingo,bop_: 0
+Unique Prefetches by 1: bingo,scooby_: 0
+Unique Prefetches by 2: bingo,sisb_: 0
+Unique Prefetches by 3: bingo,sms_: 0
+Unique Prefetches by 4: bingo,spp_: 0
+Unique Prefetches by 5: bingo_: 0
+Unique Prefetches by 6: bop,scooby_: 654
+Unique Prefetches by 7: bop,sisb_: 289
+Unique Prefetches by 8: bop,sms_: 300
+Unique Prefetches by 9: bop,spp_: 67
+Unique Prefetches by 10: bop_: 0
+Unique Prefetches by 11: scooby,sisb_: 0
+Unique Prefetches by 12: scooby,sms_: 740
+Unique Prefetches by 13: scooby,spp_: 0
+Unique Prefetches by 14: scooby_: 0
+Unique Prefetches by 15: sisb,sms_: 0
+Unique Prefetches by 16: sisb,spp_: 0
+Unique Prefetches by 17: sisb_: 0
+Unique Prefetches by 18: sms,spp_: 0
+Unique Prefetches by 19: sms_: 0
+Unique Prefetches by 20: spp_: 0
+Prefetches Shared by (0: bingo,bop_, 1: bingo,scooby_ ): 2778
+Prefetches Shared by (0: bingo,bop_, 2: bingo,sisb_ ): 2086
+Prefetches Shared by (0: bingo,bop_, 3: bingo,sms_ ): 2146
+Prefetches Shared by (0: bingo,bop_, 4: bingo,spp_ ): 2165
+Prefetches Shared by (0: bingo,bop_, 5: bingo_ ): 2077
+Prefetches Shared by (0: bingo,bop_, 6: bop,scooby_ ): 2962
+Prefetches Shared by (0: bingo,bop_, 7: bop,sisb_ ): 3176
+Prefetches Shared by (0: bingo,bop_, 8: bop,sms_ ): 3360
+Prefetches Shared by (0: bingo,bop_, 9: bop,spp_ ): 3154
+Prefetches Shared by (0: bingo,bop_, 10: bop_ ): 3176
+Prefetches Shared by (0: bingo,bop_, 11: scooby,sisb_ ): 934
+Prefetches Shared by (0: bingo,bop_, 12: scooby,sms_ ): 937
+Prefetches Shared by (0: bingo,bop_, 13: scooby,spp_ ): 933
+Prefetches Shared by (0: bingo,bop_, 14: scooby_ ): 933
+Prefetches Shared by (0: bingo,bop_, 15: sisb,sms_ ): 144
+Prefetches Shared by (0: bingo,bop_, 16: sisb,spp_ ): 160
+Prefetches Shared by (0: bingo,bop_, 17: sisb_ ): 9
+Prefetches Shared by (0: bingo,bop_, 18: sms,spp_ ): 274
+Prefetches Shared by (0: bingo,bop_, 19: sms_ ): 153
+Prefetches Shared by (0: bingo,bop_, 20: spp_ ): 153
+Prefetches Shared by (1: bingo,scooby_, 2: bingo,sisb_ ): 2221
+Prefetches Shared by (1: bingo,scooby_, 3: bingo,sms_ ): 2104
+Prefetches Shared by (1: bingo,scooby_, 4: bingo,spp_ ): 6732
+Prefetches Shared by (1: bingo,scooby_, 5: bingo_ ): 2077
+Prefetches Shared by (1: bingo,scooby_, 6: bop,scooby_ ): 28197
+Prefetches Shared by (1: bingo,scooby_, 7: bop,sisb_ ): 1012
+Prefetches Shared by (1: bingo,scooby_, 8: bop,sms_ ): 725
+Prefetches Shared by (1: bingo,scooby_, 9: bop,spp_ ): 5489
+Prefetches Shared by (1: bingo,scooby_, 10: bop_ ): 858
+Prefetches Shared by (1: bingo,scooby_, 11: scooby,sisb_ ): 28285
+Prefetches Shared by (1: bingo,scooby_, 12: scooby,sms_ ): 28289
+Prefetches Shared by (1: bingo,scooby_, 13: scooby,spp_ ): 28285
+Prefetches Shared by (1: bingo,scooby_, 14: scooby_ ): 28285
+Prefetches Shared by (1: bingo,scooby_, 15: sisb,sms_ ): 218
+Prefetches Shared by (1: bingo,scooby_, 16: sisb,spp_ ): 4840
+Prefetches Shared by (1: bingo,scooby_, 17: sisb_ ): 144
+Prefetches Shared by (1: bingo,scooby_, 18: sms,spp_ ): 4803
+Prefetches Shared by (1: bingo,scooby_, 19: sms_ ): 133
+Prefetches Shared by (1: bingo,scooby_, 20: spp_ ): 4720
+Prefetches Shared by (2: bingo,sisb_, 3: bingo,sms_ ): 2078
+Prefetches Shared by (2: bingo,sisb_, 4: bingo,spp_ ): 2081
+Prefetches Shared by (2: bingo,sisb_, 5: bingo_ ): 2077
+Prefetches Shared by (2: bingo,sisb_, 6: bop,scooby_ ): 437
+Prefetches Shared by (2: bingo,sisb_, 7: bop,sisb_ ): 1188
+Prefetches Shared by (2: bingo,sisb_, 8: bop,sms_ ): 159
+Prefetches Shared by (2: bingo,sisb_, 9: bop,spp_ ): 144
+Prefetches Shared by (2: bingo,sisb_, 10: bop_ ): 76
+Prefetches Shared by (2: bingo,sisb_, 11: scooby,sisb_ ): 589
+Prefetches Shared by (2: bingo,sisb_, 12: scooby,sms_ ): 380
+Prefetches Shared by (2: bingo,sisb_, 13: scooby,spp_ ): 376
+Prefetches Shared by (2: bingo,sisb_, 14: scooby_ ): 376
+Prefetches Shared by (2: bingo,sisb_, 15: sisb,sms_ ): 811
+Prefetches Shared by (2: bingo,sisb_, 16: sisb,spp_ ): 808
+Prefetches Shared by (2: bingo,sisb_, 17: sisb_ ): 1122
+Prefetches Shared by (2: bingo,sisb_, 18: sms,spp_ ): 144
+Prefetches Shared by (2: bingo,sisb_, 19: sms_ ): 107
+Prefetches Shared by (2: bingo,sisb_, 20: spp_ ): 69
+Prefetches Shared by (3: bingo,sms_, 4: bingo,spp_ ): 2095
+Prefetches Shared by (3: bingo,sms_, 5: bingo_ ): 2077
+Prefetches Shared by (3: bingo,sms_, 6: bop,scooby_ ): 396
+Prefetches Shared by (3: bingo,sms_, 7: bop,sisb_ ): 147
+Prefetches Shared by (3: bingo,sms_, 8: bop,sms_ ): 303
+Prefetches Shared by (3: bingo,sms_, 9: bop,spp_ ): 230
+Prefetches Shared by (3: bingo,sms_, 10: bop_ ): 146
+Prefetches Shared by (3: bingo,sms_, 11: scooby,sisb_ ): 259
+Prefetches Shared by (3: bingo,sms_, 12: scooby,sms_ ): 263
+Prefetches Shared by (3: bingo,sms_, 13: scooby,spp_ ): 259
+Prefetches Shared by (3: bingo,sms_, 14: scooby_ ): 259
+Prefetches Shared by (3: bingo,sms_, 15: sisb,sms_ ): 3226
+Prefetches Shared by (3: bingo,sms_, 16: sisb,spp_ ): 84
+Prefetches Shared by (3: bingo,sms_, 17: sisb_ ): 1
+Prefetches Shared by (3: bingo,sms_, 18: sms,spp_ ): 224
+Prefetches Shared by (3: bingo,sms_, 19: sms_ ): 189
+Prefetches Shared by (3: bingo,sms_, 20: spp_ ): 83
+Prefetches Shared by (4: bingo,spp_, 5: bingo_ ): 2077
+Prefetches Shared by (4: bingo,spp_, 6: bop,scooby_ ): 4950
+Prefetches Shared by (4: bingo,spp_, 7: bop,sisb_ ): 158
+Prefetches Shared by (4: bingo,spp_, 8: bop,sms_ ): 253
+Prefetches Shared by (4: bingo,spp_, 9: bop,spp_ ): 4911
+Prefetches Shared by (4: bingo,spp_, 10: bop_ ): 154
+Prefetches Shared by (4: bingo,spp_, 11: scooby,sisb_ ): 4887
+Prefetches Shared by (4: bingo,spp_, 12: scooby,sms_ ): 4896
+Prefetches Shared by (4: bingo,spp_, 13: scooby,spp_ ): 5013
+Prefetches Shared by (4: bingo,spp_, 14: scooby_ ): 4887
+Prefetches Shared by (4: bingo,spp_, 15: sisb,sms_ ): 90
+Prefetches Shared by (4: bingo,spp_, 16: sisb,spp_ ): 4846
+Prefetches Shared by (4: bingo,spp_, 17: sisb_ ): 4
+Prefetches Shared by (4: bingo,spp_, 18: sms,spp_ ): 4916
+Prefetches Shared by (4: bingo,spp_, 19: sms_ ): 120
+Prefetches Shared by (4: bingo,spp_, 20: spp_ ): 4846
+Prefetches Shared by (5: bingo_, 6: bop,scooby_ ): 293
+Prefetches Shared by (5: bingo_, 7: bop,sisb_ ): 66
+Prefetches Shared by (5: bingo_, 8: bop,sms_ ): 147
+Prefetches Shared by (5: bingo_, 9: bop,spp_ ): 130
+Prefetches Shared by (5: bingo_, 10: bop_ ): 66
+Prefetches Shared by (5: bingo_, 11: scooby,sisb_ ): 232
+Prefetches Shared by (5: bingo_, 12: scooby,sms_ ): 236
+Prefetches Shared by (5: bingo_, 13: scooby,spp_ ): 232
+Prefetches Shared by (5: bingo_, 14: scooby_ ): 232
+Prefetches Shared by (5: bingo_, 15: sisb,sms_ ): 68
+Prefetches Shared by (5: bingo_, 16: sisb,spp_ ): 65
+Prefetches Shared by (5: bingo_, 17: sisb_ ): 0
+Prefetches Shared by (5: bingo_, 18: sms,spp_ ): 135
+Prefetches Shared by (5: bingo_, 19: sms_ ): 102
+Prefetches Shared by (5: bingo_, 20: spp_ ): 65
+Prefetches Shared by (6: bop,scooby_, 7: bop,sisb_ ): 3714
+Prefetches Shared by (6: bop,scooby_, 8: bop,sms_ ): 2456
+Prefetches Shared by (6: bop,scooby_, 9: bop,spp_ ): 8200
+Prefetches Shared by (6: bop,scooby_, 10: bop_ ): 3567
+Prefetches Shared by (6: bop,scooby_, 11: scooby,sisb_ ): 28138
+Prefetches Shared by (6: bop,scooby_, 12: scooby,sms_ ): 28138
+Prefetches Shared by (6: bop,scooby_, 13: scooby,spp_ ): 28138
+Prefetches Shared by (6: bop,scooby_, 14: scooby_ ): 28136
+Prefetches Shared by (6: bop,scooby_, 15: sisb,sms_ ): 259
+Prefetches Shared by (6: bop,scooby_, 16: sisb,spp_ ): 4840
+Prefetches Shared by (6: bop,scooby_, 17: sisb_ ): 144
+Prefetches Shared by (6: bop,scooby_, 18: sms,spp_ ): 4789
+Prefetches Shared by (6: bop,scooby_, 19: sms_ ): 117
+Prefetches Shared by (6: bop,scooby_, 20: spp_ ): 4722
+Prefetches Shared by (7: bop,sisb_, 8: bop,sms_ ): 2813
+Prefetches Shared by (7: bop,sisb_, 9: bop,spp_ ): 3928
+Prefetches Shared by (7: bop,sisb_, 10: bop_ ): 4010
+Prefetches Shared by (7: bop,sisb_, 11: scooby,sisb_ ): 1163
+Prefetches Shared by (7: bop,sisb_, 12: scooby,sms_ ): 952
+Prefetches Shared by (7: bop,sisb_, 13: scooby,spp_ ): 950
+Prefetches Shared by (7: bop,sisb_, 14: scooby_ ): 950
+Prefetches Shared by (7: bop,sisb_, 15: sisb,sms_ ): 824
+Prefetches Shared by (7: bop,sisb_, 16: sisb,spp_ ): 831
+Prefetches Shared by (7: bop,sisb_, 17: sisb_ ): 1122
+Prefetches Shared by (7: bop,sisb_, 18: sms,spp_ ): 153
+Prefetches Shared by (7: bop,sisb_, 19: sms_ ): 61
+Prefetches Shared by (7: bop,sisb_, 20: spp_ ): 92
+Prefetches Shared by (8: bop,sms_, 9: bop,spp_ ): 2770
+Prefetches Shared by (8: bop,sms_, 10: bop_ ): 2805
+Prefetches Shared by (8: bop,sms_, 11: scooby,sisb_ ): 615
+Prefetches Shared by (8: bop,sms_, 12: scooby,sms_ ): 613
+Prefetches Shared by (8: bop,sms_, 13: scooby,spp_ ): 613
+Prefetches Shared by (8: bop,sms_, 14: scooby_ ): 613
+Prefetches Shared by (8: bop,sms_, 15: sisb,sms_ ): 231
+Prefetches Shared by (8: bop,sms_, 16: sisb,spp_ ): 145
+Prefetches Shared by (8: bop,sms_, 17: sisb_ ): 12
+Prefetches Shared by (8: bop,sms_, 18: sms,spp_ ): 3317
+Prefetches Shared by (8: bop,sms_, 19: sms_ ): 3229
+Prefetches Shared by (8: bop,sms_, 20: spp_ ): 138
+Prefetches Shared by (9: bop,spp_, 10: bop_ ): 3924
+Prefetches Shared by (9: bop,spp_, 11: scooby,sisb_ ): 5429
+Prefetches Shared by (9: bop,spp_, 12: scooby,sms_ ): 5434
+Prefetches Shared by (9: bop,spp_, 13: scooby,spp_ ): 5553
+Prefetches Shared by (9: bop,spp_, 14: scooby_ ): 5427
+Prefetches Shared by (9: bop,spp_, 15: sisb,sms_ ): 144
+Prefetches Shared by (9: bop,spp_, 16: sisb,spp_ ): 4853
+Prefetches Shared by (9: bop,spp_, 17: sisb_ ): 14
+Prefetches Shared by (9: bop,spp_, 18: sms,spp_ ): 4900
+Prefetches Shared by (9: bop,spp_, 19: sms_ ): 104
+Prefetches Shared by (9: bop,spp_, 20: spp_ ): 4845
+Prefetches Shared by (10: bop_, 11: scooby,sisb_ ): 798
+Prefetches Shared by (10: bop_, 12: scooby,sms_ ): 798
+Prefetches Shared by (10: bop_, 13: scooby,spp_ ): 796
+Prefetches Shared by (10: bop_, 14: scooby_ ): 796
+Prefetches Shared by (10: bop_, 15: sisb,sms_ ): 89
+Prefetches Shared by (10: bop_, 16: sisb,spp_ ): 96
+Prefetches Shared by (10: bop_, 17: sisb_ ): 10
+Prefetches Shared by (10: bop_, 18: sms,spp_ ): 143
+Prefetches Shared by (10: bop_, 19: sms_ ): 55
+Prefetches Shared by (10: bop_, 20: spp_ ): 88
+Prefetches Shared by (11: scooby,sisb_, 12: scooby,sms_ ): 28285
+Prefetches Shared by (11: scooby,sisb_, 13: scooby,spp_ ): 28285
+Prefetches Shared by (11: scooby,sisb_, 14: scooby_ ): 28285
+Prefetches Shared by (11: scooby,sisb_, 15: sisb,sms_ ): 397
+Prefetches Shared by (11: scooby,sisb_, 16: sisb,spp_ ): 5053
+Prefetches Shared by (11: scooby,sisb_, 17: sisb_ ): 357
+Prefetches Shared by (11: scooby,sisb_, 18: sms,spp_ ): 4735
+Prefetches Shared by (11: scooby,sisb_, 19: sms_ ): 65
+Prefetches Shared by (11: scooby,sisb_, 20: spp_ ): 4720
+Prefetches Shared by (12: scooby,sms_, 13: scooby,spp_ ): 28290
+Prefetches Shared by (12: scooby,sms_, 14: scooby_ ): 28285
+Prefetches Shared by (12: scooby,sms_, 15: sisb,sms_ ): 184
+Prefetches Shared by (12: scooby,sms_, 16: sisb,spp_ ): 4845
+Prefetches Shared by (12: scooby,sms_, 17: sisb_ ): 144
+Prefetches Shared by (12: scooby,sms_, 18: sms,spp_ ): 4740
+Prefetches Shared by (12: scooby,sms_, 19: sms_ ): 65
+Prefetches Shared by (12: scooby,sms_, 20: spp_ ): 4725
+Prefetches Shared by (13: scooby,spp_, 14: scooby_ ): 28285
+Prefetches Shared by (13: scooby,spp_, 15: sisb,sms_ ): 184
+Prefetches Shared by (13: scooby,spp_, 16: sisb,spp_ ): 4966
+Prefetches Shared by (13: scooby,spp_, 17: sisb_ ): 144
+Prefetches Shared by (13: scooby,spp_, 18: sms,spp_ ): 4861
+Prefetches Shared by (13: scooby,spp_, 19: sms_ ): 65
+Prefetches Shared by (13: scooby,spp_, 20: spp_ ): 4846
+Prefetches Shared by (14: scooby_, 15: sisb,sms_ ): 184
+Prefetches Shared by (14: scooby_, 16: sisb,spp_ ): 4840
+Prefetches Shared by (14: scooby_, 17: sisb_ ): 144
+Prefetches Shared by (14: scooby_, 18: sms,spp_ ): 4735
+Prefetches Shared by (14: scooby_, 19: sms_ ): 65
+Prefetches Shared by (14: scooby_, 20: spp_ ): 4720
+Prefetches Shared by (15: sisb,sms_, 16: sisb,spp_ ): 793
+Prefetches Shared by (15: sisb,sms_, 17: sisb_ ): 743
+Prefetches Shared by (15: sisb,sms_, 18: sms,spp_ ): 164
+Prefetches Shared by (15: sisb,sms_, 19: sms_ ): 158
+Prefetches Shared by (15: sisb,sms_, 20: spp_ ): 54
+Prefetches Shared by (16: sisb,spp_, 17: sisb_ ): 743
+Prefetches Shared by (16: sisb,spp_, 18: sms,spp_ ): 4849
+Prefetches Shared by (16: sisb,spp_, 19: sms_ ): 53
+Prefetches Shared by (16: sisb,spp_, 20: spp_ ): 4846
+Prefetches Shared by (17: sisb_, 18: sms,spp_ ): 9
+Prefetches Shared by (17: sisb_, 19: sms_ ): 5
+Prefetches Shared by (17: sisb_, 20: spp_ ): 4
+Prefetches Shared by (18: sms,spp_, 19: sms_ ): 3229
+Prefetches Shared by (18: sms,spp_, 20: spp_ ): 4846
+Prefetches Shared by (19: sms_, 20: spp_ ): 50

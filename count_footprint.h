@@ -8,33 +8,34 @@
 
 using namespace std;
 
-string out_path = "results_strict/";
+string out_path = "results_footprint/";
 string out_format = ".txt";
 
 struct Prefetch
 {
-    uint64_t instr_id;
+    //uint64_t instr_id;
     uint64_t addr;
     //uint64_t level;
-    Prefetch(uint64_t id, uint64_t address)
+    Prefetch(uint64_t address)
     {
-        instr_id = id;
+        //instr_id = id;
         addr = address;
     }
 
     //hash idea: https://stackoverflow.com/a/64191463
     bool operator==(const Prefetch& other) const
     {
-        return (this->instr_id == other.instr_id) && (this->addr == other.addr);
+        return this->addr == other.addr;
+        //return (this->instr_id == other.instr_id) && (this->addr == other.addr);
     }
 
     struct HashFunction
     {
         size_t operator()(const Prefetch& prefetch) const
         {
-            size_t inst_idHash = std::hash<uint64_t>()(prefetch.instr_id);
-            size_t addrHash = std::hash<uint64_t>()(prefetch.addr) << 1;
-            return inst_idHash ^ addrHash;
+            //size_t inst_idHash = std::hash<uint64_t>()(prefetch.instr_id);
+            size_t addrHash = std::hash<uint64_t>()(prefetch.addr);
+            return addrHash;
         }
     };
 };
@@ -109,11 +110,13 @@ class SetTracker
                 for(int other: *(entry->second))
                 {
                     if(entry->second->size() == 1)
+                    {
                         only_me[other] = (only_me[other] == 0) ? 0: only_me[other] - 1;
+                    }
                     intersection_matrix[cur_prefetcher][other]++;
                 }
-                total_by_me[cur_prefetcher]++;
                 entry->second->emplace(cur_prefetcher);
+                total_by_me[cur_prefetcher]++;
             }
         }
 
